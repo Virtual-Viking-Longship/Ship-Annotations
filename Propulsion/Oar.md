@@ -1,0 +1,6 @@
+Oar (Danish: åre, German: Riemen, Old Nourse: árar)
+Viking ships moved in two ways; by wool sails catching the wind, or by the hard work of oarsmen. Regardless of the method, the ship's direction was controlled by a special oar, called a “steering oar.” The steering oar is located at the rear right side (rear starboard) side of the ship, and works similarly to a rudder. Oars were typically made with woods such as ash, oak, or spruce. The length of oars was also very important. If you are seated at the front of the ship, you are generally higher up than those towards the middle and rear. As a result, those at the front require longer oars. 
+	
+Though oars weren’t always in use, situations such as unfavorable wind conditions or close-quarters naval combat required all hands on oars. Smaller ships oftentimes use tholes, wooden pins fixed to the ship’s hull, to hold oars in place. Bigger ships, on the other hand, made use of holes called oarpoarts. The largest ships could have in excess of 30 oars on each side. 
+
+Teamwork is perhaps the most important facet of rowing a Viking ship, as coordination and communication were what allowed a ship to move efficiently. All oars on one side of the ship had to move together. This was managed by the row leader, who was also tasked with steering the ship.  
