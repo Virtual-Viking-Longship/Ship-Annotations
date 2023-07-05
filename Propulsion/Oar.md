@@ -1,6 +1,22 @@
-Oar (Danish: åre, German: Riemen, Old Nourse: árar)
-Viking ships moved in two ways; by wool sails catching the wind, or by the hard work of oarsmen. Regardless of the method, the ship's direction was controlled by a special oar, called a “steering oar.” The steering oar is located at the rear right (starboard) side side of the ship, and works similarly to a rudder. Oars were typically made with woods such as ash, oak, or spruce. The length of oars was also very important. If you are seated at the front of the ship, you are generally higher up than those towards the middle and rear. As a result, those at the front require longer oars. 
-	
-Though oars weren’t always in use, situations such as unfavorable wind conditions or close-quarters naval combat required all hands on oars. Smaller ships oftentimes use tholes, wooden pins fixed to the ship’s hull, to hold oars in place. Bigger ships, on the other hand, made use of holes called oarpoarts. The largest ships could have in excess of 30 oars on each side. 
+<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 0; ALERTS: 1.</p>
+<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
 
-Teamwork is perhaps the most important facet of rowing a Viking ship, as coordination and communication were what allowed a ship to move efficiently. All oars on one side of the ship had to move together. This was managed by the row leader, who was also tasked with steering the ship.  
+<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
+
+<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
+
+
+Oar (Danish: åre, German: Riemen, Old Norse: áre)
+
+Oars on Viking ships were critical for moving and steering the ship, especially in unfavorable wind conditions. The length of oar varied based on the position of the rower; if you are seated at the front of the ship, you are generally higher up than those towards the middle and rear, and as a result, require longer oars. The largest Viking ships could have as many as 30 oars per side (Jesch). 
+
+
+
+<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image1.png "image_tooltip")
+
+
+
+    Jesch, Judith. _Ships and Men in the Late Viking Age: The Vocabulary of Runic Inscriptions and Skaldic Verse_. NED-New edition. Woodbridge, Suffolk, UK ; Rochester, NY: Boydell & Brewer, 2001. https://www.jstor.org/stable/10.7722/j.ctt163tb4f.
