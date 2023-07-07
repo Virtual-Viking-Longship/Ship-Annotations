@@ -4,8 +4,11 @@
 
 A long wooden pole with a blade (ON _blað_) at one end and a handle (ON _hlumr_) at the other, pivoted in pairs on the side of a ship to propel the vessel through water.  
 
-Oars were critical for moving and steering Viking ships, especially in unfavorable wind conditions. The length of oar varied based on the position of the rower; if you are seated at the front of the ship, you are generally higher up than those towards the middle and rear, and as a result, require longer oars. The largest Viking ships could have as many as 30 oars per side (Jesch). 
+Oars were critical for moving and steering Viking ships, especially in unfavorable wind conditions, and close quaters naval combat. No intact oars have been perserved as to determine their original length. However, their estimated size can be inferred from the dimensions of oarholes found in the hulls of preserved vessels. (Crumlin-Pedersen, 126).  The largest Viking ships could have more than 30 oars per side (Crumlin-Pedersen, 92). 
 
 ![oar from Gokstad ship](../images/Nicolaysen_Oars.png)
 
 Jesch, Judith. _Ships and Men in the Late Viking Age: The Vocabulary of Runic Inscriptions and Skaldic Verse_. NED-New edition. Woodbridge, Suffolk, UK ; Rochester, NY: Boydell & Brewer, 2001. https://www.jstor.org/stable/10.7722/j.ctt163tb4f.
+
+Crumlin-Pedersen, Ole. 1996. _Viking-Age Ships and Shipbuilding in Hedeby_. Illustrated edition. Roskilde: Viking Ship Museum.
+
