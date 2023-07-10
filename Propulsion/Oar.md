@@ -1,27 +1,27 @@
 **_oar_** (English); _åre_ (Danish); _Riemen_ (German)  
-
 _**ár** f., pl. árar_ [onp](https://onp.ku.dk/onp/onp.php?o4167)/[lp](https://lexiconpoeticum.org/m.php?p=lemma&i=4453) (Old Norse)   
 _**rœði** n., pl. rœði_ [onp](https://onp.ku.dk/onp/onp.php?o65885)/[lp](https://lexiconpoeticum.org/m.php?p=lemma&i=69061) 
 
-A long wooden pole with a blade (ON _blað_) at one end and a handle (ON _hlumr_) at the other, pivoted in pairs on the side of a ship to propel the vessel through water.  
+  A long wooden pole with a blade (ON _blað_) at one end and a handle (ON _hlumr_) at the other, pivoted in pairs on the side of a ship to propel the vessel through water.    
 
 ![oar from Gokstad ship](../images/Nicolaysen_Oars.png)
-
 <p align="center">
-Sample of Viking Oars from Gokstad ship, Nicolaysen  
+Sample oar from Gokstad ship, Nicolaysen 
 </p>
-
-
-Oars were critical for moving and steering Viking ships, especially in unfavorable wind conditions, and close quaters naval combat. It is known that oars were painted and carved, adding character to indivdual oars (Jesch, 154).  The largest Viking ships could have more than 30 oars per side (Crumlin-Pedersen, 92). 
-
-
-<br/><br/><br/>
   
-<p> 
-  Jesch, Judith. Ships and Men in the Late Viking Age: The Vocabulary of Runic Inscriptions and Skaldic Verse. NED-New edition. Woodbridge, Suffolk, UK ; Rochester, NY: 
+
+
+  Oars were critical for moving and steering Viking ships, especially in unfavorable wind conditions, and close quaters naval combat. It is known that oars were painted and carved, adding character to indivdual oars (Jesch, 154).  The largest Viking ships could have more than 30 oars per side (Crumlin-Pedersen, 92).   
+
+
+  <p align="center">
+Works Cited 
+</p>
+
+  Jesch, Judith. _Ships and Men in the Late Viking Age: The Vocabulary of Runic Inscriptions and Skaldic Verse._ NED-New edition. Woodbridge, Suffolk, UK ; Rochester, NY: 
 Boydell & Brewer, 2001. https://www.jstor.org/stable/10.7722/j.ctt163tb4f.
-</p>
-<p> 
-  Crumlin-Pedersen, Ole. 1996. Viking-Age Ships and Shipbuilding in Hedeby. Illustrated edition. Roskilde: Viking Ship Museum.
-</p>
+
+
+  Crumlin-Pedersen, Ole. 1996. _Viking-Age Ships and Shipbuilding in Hedeby._ Illustrated edition. Roskilde: Viking Ship Museum.
+
 
