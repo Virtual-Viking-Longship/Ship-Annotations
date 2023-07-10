@@ -8,7 +8,7 @@ A long wooden pole with a blade (ON _blað_) at one end and a handle (ON _hlumr_
 ![oar from Gokstad ship](../images/Nicolaysen_Oars.png)
 
 <p align="center">
-Sample of Viking Oars from Gokstad ship Nicolaysen 
+Sample of Viking Oars from Gokstad ship, Nicolaysen  
 </p>
 
 
