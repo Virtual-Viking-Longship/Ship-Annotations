@@ -1,6 +1,7 @@
 **_oar_** (English); _åre_ (Danish); _Riemen_ (German)  
 
-**_ár_** [onp](https://onp.ku.dk/onp/onp.php?o4167)/[lp](https://lexiconpoeticum.org/m.php?p=lemma&i=4453) : **_rœði_** [onp](https://onp.ku.dk/onp/onp.php?o65885)/[lp](https://lexiconpoeticum.org/m.php?p=lemma&i=69061) (Old Norse)
+_**ár** f., pl. árar_ [onp](https://onp.ku.dk/onp/onp.php?o4167)/[lp](https://lexiconpoeticum.org/m.php?p=lemma&i=4453) (Old Norse)   
+_**rœði** n., pl. rœði_ [onp](https://onp.ku.dk/onp/onp.php?o65885)/[lp](https://lexiconpoeticum.org/m.php?p=lemma&i=69061) 
 
 A long wooden pole with a blade (ON _blað_) at one end and a handle (ON _hlumr_) at the other, pivoted in pairs on the side of a ship to propel the vessel through water.  
 
