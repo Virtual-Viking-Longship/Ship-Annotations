@@ -18,10 +18,10 @@ Oars were critical for moving and steering Viking ships, especially in unfavorab
 <br/><br/><br/>
   
 <p> 
-  Jesch, Judith. _Ships and Men in the Late Viking Age: The Vocabulary of Runic Inscriptions and Skaldic Verse_. NED-New edition. Woodbridge, Suffolk, UK ; Rochester, NY: 
+  Jesch, Judith. Ships and Men in the Late Viking Age: The Vocabulary of Runic Inscriptions and Skaldic Verse. NED-New edition. Woodbridge, Suffolk, UK ; Rochester, NY: 
 Boydell & Brewer, 2001. https://www.jstor.org/stable/10.7722/j.ctt163tb4f.
 </p>
 <p> 
-  Crumlin-Pedersen, Ole. 1996. _Viking-Age Ships and Shipbuilding in Hedeby_. Illustrated edition. Roskilde: Viking Ship Museum.
+  Crumlin-Pedersen, Ole. 1996. Viking-Age Ships and Shipbuilding in Hedeby. Illustrated edition. Roskilde: Viking Ship Museum.
 </p>
 
