@@ -7,7 +7,7 @@
  - Treenails_Ladby.png (Sørensen 2001, Figure 1.5, p18)
  - Anchor_Ladby.png (Sørensen 2001, Figure 1.6, p18)
  - CrossSections_Ladby.png (Sørensen 2001, Figure 6.3, p211)
- - Oars_Gokstad.png (Nicolaysen 1911, Pl. III, Figure 1 ) 
+ - Oars_Gokstad.png (Nicolaysen 1911, Pl. III, Figure 1, p93 ) 
 
 # Sources
 
