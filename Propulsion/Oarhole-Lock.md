@@ -1,4 +1,4 @@
-**_oar_** (English); _åre_ (Danish); _Riemen_ (German)
+**_oarhole-lock_** (English); _årehulslukke_ (Danish); _Riemenlochverschluss_ (German)
 
 _**ár** f., pl. árar_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o4167)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=4453)]  
 _**rœði** n., pl. rœði_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o65885)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=69061)]
@@ -12,7 +12,7 @@ _**rœði** n., pl. rœði_ (Old Norse) [citations: [prose](https://onp.ku.dk/on
 
 </div>
 
-  Various sources of combined evidence suggest that these locks may have been part of the personal equipment brought onboard by the crew, as opposed to a standard element of the ship's equipment. (Crumlin-Petersen, 126)     
+  Various sources of combined evidence suggest that these locks may have been part of the personal equipment brought onboard by the crew, as opposed to a standard element of the ship's equipment (Crumlin-Petersen, 126).     
 
 ---
 
