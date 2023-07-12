@@ -8,7 +8,7 @@ _**rœði** n., pl. rœði_ (Old Norse) [citations: [prose](https://onp.ku.dk/on
 <div align="center">
   
   ![oarhole-lock from Hedeby ship](../images/Nicolaysen_Oarhole_lock.png)  
-  Oarhole-lock from ship found in the Hedeby Harbor, Schelswig-Holstein Germany (Nicolaysen, 1911, Figure 5.28, p127)
+  Oarhole-lock from ship found in the Hedeby harbor, Schelswig-Holstein Germany (Nicolaysen, 1911, Figure 5.28, p127)
 
 </div>
 
