@@ -1,6 +1,25 @@
-Oar (Danish: åre, German: Riemen, Old Nourse: árar)
-Viking ships moved in two ways; by wool sails catching the wind, or by the hard work of oarsmen. Regardless of the method, the ship's direction was controlled by a special oar, called a “steering oar.” The steering oar is located at the rear right (starboard) side side of the ship, and works similarly to a rudder. Oars were typically made with woods such as ash, oak, or spruce. The length of oars was also very important. If you are seated at the front of the ship, you are generally higher up than those towards the middle and rear. As a result, those at the front require longer oars. 
-	
-Though oars weren’t always in use, situations such as unfavorable wind conditions or close-quarters naval combat required all hands on oars. Smaller ships oftentimes use tholes, wooden pins fixed to the ship’s hull, to hold oars in place. Bigger ships, on the other hand, made use of holes called oarpoarts. The largest ships could have in excess of 30 oars on each side. 
+**_oar_** (English); _åre_ (Danish); _Riemen_ (German)
 
-Teamwork is perhaps the most important facet of rowing a Viking ship, as coordination and communication were what allowed a ship to move efficiently. All oars on one side of the ship had to move together. This was managed by the row leader, who was also tasked with steering the ship.  
+_**ár** f., pl. árar_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o4167)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=4453)]  
+_**rœði** n., pl. rœði_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o65885)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=69061)]
+
+  A long wooden pole with a blade (ON _blað_) at one end and a handle (ON _hlumr_) at the other, pivoted in pairs on the side of a ship to propel the vessel through water.    
+
+<div align="center">
+  
+  ![oar from Gokstad ship](../images/Nicolaysen_Oars.png)  
+  Oar from the Gokstad ship (Nicolaysen Pl. V, Fig. 1)
+
+</div>
+
+  Oars were critical for moving and steering Viking ships, especially in unfavorable wind conditions, on rivers, and in close quarters naval combat. It is known that oars were painted and carved, adding character to indivdual oars (Jesch, 154).  The largest Viking ships could have more than 30 oars per side (Crumlin-Pedersen, 92).   
+
+---
+
+  Jesch, Judith. _Ships and Men in the Late Viking Age: The Vocabulary of Runic Inscriptions and Skaldic Verse._ NED-New edition. Woodbridge, Suffolk, UK ; Rochester, NY: 
+Boydell & Brewer, 2001. https://www.jstor.org/stable/10.7722/j.ctt163tb4f.
+
+
+  Crumlin-Pedersen, Ole. 1996. _Viking-Age Ships and Shipbuilding in Hedeby._ Illustrated edition. Roskilde: Viking Ship Museum.
+
+
