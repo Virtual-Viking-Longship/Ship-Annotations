@@ -3,7 +3,7 @@
 _**hár** f., pl. háir_ (Old Norse) [citation: [prose](https://onp.ku.dk/onp/onp.php?o31447)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=31982)]   
 _**há-bora** f., pl. háborurnar, haborum_ (Old Norse) [citation: [prose](https://onp.ku.dk/onp/onp.php?o30226)]  
 
-  A hole within the hull of the ship, with which 
+  Holes situated within the upper strakes (hull) of Viking ships, allowing the crew to man the oars. (Crumlin-Pedersen, 116)
 <div align="center">
   
   ![oarhole-lock from Hedeby ship](../images/Nicolaysen_Oarhole_lock.png)  
@@ -11,7 +11,7 @@ _**há-bora** f., pl. háborurnar, haborum_ (Old Norse) [citation: [prose](https
 
 </div>
 
-  Various sources of combined evidence suggest that these locks may have been part of the personal equipment brought onboard by the crew, as opposed to a standard element of the ship's equipment (Crumlin-Petersen, 126).     
+         
 
 ---
 
