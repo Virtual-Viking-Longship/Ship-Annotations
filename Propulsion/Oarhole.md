@@ -2,6 +2,8 @@
 
 _**hár** f., pl. háir_ (Old Norse) [citation: [prose](https://onp.ku.dk/onp/onp.php?o31447)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=31982)]   
 _**há-bora** f., pl. háborurnar, haborum_ (Old Norse) [citation: [prose](https://onp.ku.dk/onp/onp.php?o30226)]  
+_**hamla** f., pl. hǫmlur_ (Old Norse) [citation: [prose](https://onp.ku.dk/onp/onp.php?o31115)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=31626)]   
+
 
   Holes situated within the upper strakes (hull) of Viking ships, allowing the crew to man the oars. (Crumlin-Pedersen, 116)
 <div align="center">
@@ -11,6 +13,7 @@ _**há-bora** f., pl. háborurnar, haborum_ (Old Norse) [citation: [prose](https
 
 </div>
 
+  A common practice was to levy taxes based on the amount of oarports present on a ship; Harthacnut's tax of 8 marks on each crew memeber, for example, was tabulated by the number oarsmen's places (oarports). (Jesch, 156) 
          
 
 ---
