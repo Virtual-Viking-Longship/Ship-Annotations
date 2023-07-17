@@ -6,7 +6,7 @@
 <div align="center">
   
   ![oarhole-lock from Hedeby ship](../images/Nicolaysen_Oarhole_lock.png)  
-  Oarhole-lock from ship found in the Hedeby harbor, located in present-day Busdorf, Schelswig-Holstein, Germany. (Nicolaysen, 1911, Figure 5.28, p127)
+  Oarhole-lock from ship found in the Hedeby harbor, located in present-day Busdorf, Schelswig-Holstein, Germany. (Crumlin-Pedersen, 1996, Figure 5.28, p127)
 
 </div>
 
