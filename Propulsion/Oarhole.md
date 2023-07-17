@@ -6,8 +6,8 @@ _**há-bora** f., pl. háborurnar, haborum_ (Old Norse) [citation: [prose](https
   Holes situated within the upper strakes (hull) of Viking ships, allowing the crew to man the oars. (Crumlin-Pedersen, 116)
 <div align="center">
   
-  ![oarhole-lock from Hedeby ship](../images/Nicolaysen_Oarhole_lock.png)  
-  Oarhole-lock from ship found in the Hedeby harbor, located in present-day Busdorf, Schelswig-Holstein, Germany. (Nicolaysen, 1911, Figure 5.28, p127)
+  ![oarhole-lock from Hedeby ship](../images/oarports.png)  
+  Reconstruction drawing of a section of the upper strakes and oarports of a vessel excavated in Hafenstrasse, Schelswig-Holstein, Germany. (Crumlin-Pedersen, 1996, Figure 5.12, p116)
 
 </div>
 
