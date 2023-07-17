@@ -1,4 +1,4 @@
-**_oarport, oarhole_** (English); _årehul_ (Danish); _Riemenloch_ (German)
+**_oarhole, oarport_** (English); _årehul_ (Danish); _Riemenloch_ (German)
 
 _**hár** f., pl. háir_ (Old Norse) [citation: [prose](https://onp.ku.dk/onp/onp.php?o31447)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=31982)]   
 _**há-bora** f., pl. háborurnar, haborum_ (Old Norse) [citation: [prose](https://onp.ku.dk/onp/onp.php?o30226)]  
