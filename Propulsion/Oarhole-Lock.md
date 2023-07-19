@@ -1,0 +1,24 @@
+**_oarhole-lock_** (English); _årehulslukke_ (Danish); _Riemenlochverschluss_ (German)
+
+
+  A small wooden tool used to to close the oarholes in the hulls of viking ships when the oars weren't in use, in order to prevent water from flooding the hull.     
+
+<div align="center">
+  
+  ![oarhole-lock from Hedeby ship](../images/Nicolaysen_Oarhole_lock.png)  
+  Oarhole-lock from ship found in the Hedeby harbor, located in present-day Busdorf, Schelswig-Holstein, Germany. (Crumlin-Pedersen, 1996, Figure 5.28, p127)
+
+</div>
+
+  Various sources of combined evidence suggest that these locks may have been part of the personal equipment brought onboard by the crew, as opposed to a standard element of the ship's equipment (Crumlin-Petersen, 126).     
+
+---
+
+  Jesch, Judith. _Ships and Men in the Late Viking Age: The Vocabulary of Runic Inscriptions and Skaldic Verse._ NED-New edition. Woodbridge, Suffolk, UK ; Rochester, NY: 
+Boydell & Brewer, 2001. https://www.jstor.org/stable/10.7722/j.ctt163tb4f.
+
+
+  Crumlin-Pedersen, Ole. 1996. _Viking-Age Ships and Shipbuilding in Hedeby._ Illustrated edition. Roskilde: Viking Ship Museum.
+
+
+
