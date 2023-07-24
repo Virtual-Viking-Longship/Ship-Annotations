@@ -5,7 +5,7 @@ _**há-bora** f., pl. háborurnar, haborum_ (Old Norse) [citation: [prose](https
 _**hamla** f., pl. hǫmlur_ (Old Norse) [citation: [prose](https://onp.ku.dk/onp/onp.php?o31115)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=31626)]   
 
 
-  Holes situated within the upper strakes (hull) of Viking ships, allowing the crew to man the oars. (Crumlin-Pedersen, 116)
+  Holes situated within the upper strakes in the hull of Viking ships, allowing the crew to man the oars. (Crumlin-Pedersen, 116)
 <div align="center">
   
   ![oarhole-lock from Hedeby ship](../images/oarports.png)  
