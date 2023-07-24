@@ -13,7 +13,7 @@ _**hamla** f., pl. hǫmlur_ (Old Norse) [citation: [prose](https://onp.ku.dk/onp
 
 </div>
 
-  A common practice was to levy taxes based on the amount of oarports present on a ship; Harthacnut's tax of 8 marks on each crew memeber, for example, was tabulated by the number oarsmen's places (oarports). (Jesch, 156) 
+  A common practice was to levy taxes based on the amount of oarports present on a ship; Harthacnut's tax of 8 marks on each crew member, for example, was tabulated by the number of oarsmen's places (oarports). (Jesch, 156) 
          
 
 ---
