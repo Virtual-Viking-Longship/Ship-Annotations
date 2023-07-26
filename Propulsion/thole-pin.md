@@ -1,8 +1,9 @@
 **_thole-pin_** (English); _tollepind_ (Danish); _Dolle_ (German)
 
-_**ár** f., pl. árar_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o4167)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=4453)]  
+_**keipr** m., pl. árar_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o42936)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=44158)]  
 
-  A long wooden pole with a blade (ON _blað_) at one end and a handle (ON _hlumr_) at the other, pivoted in pairs on the side of a ship to propel the vessel through water.    
+
+  A wooden pin used as a fulcrum for oars on smaller viking vessels.     
 
 <div align="center">
   
@@ -11,7 +12,7 @@ _**ár** f., pl. árar_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/on
 
 </div>
 
-  Oars were critical for moving and steering Viking ships, especially in unfavorable wind conditions, on rivers, and in close quarters naval combat. It is known that oars were painted and carved, adding character to indivdual oars (Jesch, 154).  The largest Viking ships could have more than 30 oars per side (Crumlin-Pedersen, 92).   
+  Archaelogical finds have indicated that the movement of the oars, controlled at the point where they rest on the ship, was dependent on the size of the ship itself. Jesch discuesses these differences at length, stating that smaller ships were generally powered by rows mounted on thole-pins similar to ones on the image above (Jesch, 155).     
 
 ---
 
