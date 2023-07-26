@@ -12,7 +12,7 @@ _**keipr** m., pl. árar_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/
 
 </div>
 
-  Archaelogical finds have indicated that the movement of the oars, controlled at the point where they rest on the ship, was dependent on the size of the ship itself. Jesch discuesses these differences at length, stating that smaller ships were generally powered by rows mounted on thole-pins similar to ones on the image above (Jesch, 155).     
+  Archaelogical finds indicate that the movement of the oars, controlled at the point where they rest on the ship, was dependent on the size of the ship itself. Jesch discuesses these differences at length, stating that smaller ships were generally powered by rows mounted on thole-pins similar to ones on the image above (Jesch, 155).     
 
 ---
 
