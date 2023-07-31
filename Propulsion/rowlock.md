@@ -11,7 +11,10 @@ _**keipr** m., pl. keipar_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp
 
 </div>
 
-  Many ship finds have included broken rowlocks, to the extent that there is evidence that workshops existed for the repair of boats which had damaged their rowlocks. A wide range of differing rowlocks have been found, spanning various locations and distinct time periods within the Viking Age (generally considered to 800-1100). The various methods of mounting rowlocks were probably primarily determined by the thickness of the ships’ sheerstrakes (Crumlin-Pedersen, 126). 
+  
+  Many ship finds have included broken rowlocks, to the extent that there is evidence that workshops existed for the repair of boats which had damaged their rowlocks. A wide range of differing rowlocks have been found, spanning various locations and distinct time periods within the Viking Age (generally considered to have lasted between the 8th and 11th centuries). The various methods of mounting rowlocks were probably primarily determined by the thickness of the ships’ sheerstrakes (Crumlin-Pedersen, 126). 
+
+
 
 ---
 
