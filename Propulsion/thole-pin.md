@@ -8,7 +8,7 @@ _**keipr** m., pl. keipar_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp
 <div align="center">
   
   ![oar from Gokstad ship](../images/tholepin_Crumlin_Pedersen.png)  
-  Oar from the Gokstad ship (Nicolaysen Pl. V, Fig. 1)
+  Tholepin from the Hedeby harbor (Crumlin-Pedersen Fig. 5.30).
 
 </div>
 
