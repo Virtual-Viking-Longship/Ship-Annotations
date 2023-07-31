@@ -6,8 +6,8 @@ _**keipr** m., pl. keipar_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp
 
 <div align="center">
   
-  ![oar from Gokstad ship](../images/Nicolaysen_Oars.png)  
-  Oar from the Gokstad ship (Nicolaysen Pl. V, Fig. 1)
+  ![oar from Gokstad ship](../images/rowlocks_Crumlin_Pedersen.png)  
+  An assortment of rowlocks (Crumlin-Pedersen Fig. 5.29)
 
 </div>
 
