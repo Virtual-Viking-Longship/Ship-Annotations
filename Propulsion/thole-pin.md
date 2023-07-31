@@ -1,6 +1,6 @@
 **_thole-pin_** (English); _tollepind_ (Danish); _Dolle_ (German)
 
-_**keipr** m., pl. árar_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o42936)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=44158)]  
+_**keipr** m., pl. keipar_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o42936)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=44158)]  
 
 
   A wooden pin used as a fulcrum for oars on smaller viking vessels.     
