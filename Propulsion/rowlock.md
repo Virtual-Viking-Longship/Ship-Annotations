@@ -1,6 +1,6 @@
 **_rowlock_** (English); _åretol_ (Danish); _Riemendolle_ (German)
 
-_**keipr** m., pl. _ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o42936)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=44158)]  
+_**keipr** m., pl. keipar_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o42936)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=44158)]  
 
   
 <div align="center">
