@@ -1,9 +1,9 @@
-**_oar_** (English); _åre_ (Danish); _Riemen_ (German)
+**_rudder_** (English); _ror_ (Danish); _Rudder_ (German)
 
-_**ár** f., pl. árar_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o4167)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=4453)]  
-_**rœði** n., pl. rœði_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o65885)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=69061)]
+_**stýri** n, pl. stýri_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o76543)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=80522)]  
 
-  A long wooden pole with a blade (ON _blað_) at one end and a handle (ON _hlumr_) at the other, pivoted in pairs on the side of a ship to propel the vessel through water.    
+
+  Rudders, located externally at the rear of viking ships, served as the primary means of steering. 
 
 <div align="center">
   
