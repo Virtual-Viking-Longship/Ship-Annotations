@@ -1,6 +1,6 @@
 **_rudder_** (English); _ror_ (Danish); _Rudder_ (German)
 
-_**stýri** n, pl. stýri_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o76543)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=80522)]  
+_**stýri** n., pl. stýri_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o76543)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=80522)]  
 
 
   Rudders, located externally at the rear of viking ships, served as the primary means of steering. 
