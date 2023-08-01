@@ -1,10 +1,9 @@
  
-**_oar_** (English); _åre_ (Danish); _Riemen_ (German)
+**_tiller_** (English); _rorpind_ (Danish); _Ruderpinne_ (German)
 
-_**ár** f., pl. árar_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o4167)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=4453)]  
-_**rœði** n., pl. rœði_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o65885)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=69061)]
+_**stýri** n, pl. ._ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o4167)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=4453)]  
 
-  A long wooden pole with a blade (ON _blað_) at one end and a handle (ON _hlumr_) at the other, pivoted in pairs on the side of a ship to propel the vessel through water.    
+  The tiller was a wooden pin, utilized by the helmsman to control the angle and depth of the rudder. Tillers and rudders were often highly decorated.    
 
 <div align="center">
   
@@ -13,7 +12,7 @@ _**rœði** n., pl. rœði_ (Old Norse) [citations: [prose](https://onp.ku.dk/on
 
 </div>
 
-  Oars were critical for moving and steering Viking ships, especially in unfavorable wind conditions, on rivers, and in close quarters naval combat. It is known that oars were painted and carved, adding character to indivdual oars (Jesch, 154).  The largest Viking ships could have more than 30 oars per side (Crumlin-Pedersen, 92).   
+  Tillers were most useful when sailing a ship in shallow waters, as the rudder was required to be moved out of its normal position in order to prevent running aground.  (Crumlin-Pedersen, 92).   
 
 ---
 
