@@ -12,7 +12,7 @@ _**stýri** n, pl. stýri_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp
 
 </div>
 
-    
+  The rudder is oftentimes prominently displayed in illustrations and reconstructions of ships. The word for the steering arrangement on a viking ship is stýri, but it is not entirely clear whether this referred to both the rudder and the tiller, or just the rudder. Jsesch notes however, that sources describe the movements of the stýri in a manner that appears to have primarily the rudder in mind (Jesch, 159).  
 
 ---
 
