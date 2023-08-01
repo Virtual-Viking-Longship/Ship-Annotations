@@ -8,11 +8,11 @@ _**stýri** n, pl. stýri_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp
 <div align="center">
   
   ![oar from Gokstad ship](../images/Rudder_Crumlin-Pedersen.png)  
-  Oar from the Gokstad ship (Nicolaysen Pl. V, Fig. 1)
+  Rudder from shipwreck found in Vorså, Denmark (Crumlin-Pedersen, Fig. 5.47).
 
 </div>
 
-  Oars were critical for moving and steering Viking ships, especially in unfavorable wind conditions, on rivers, and in close quarters naval combat. It is known that oars were painted and carved, adding character to indivdual oars (Jesch, 154).  The largest Viking ships could have more than 30 oars per side (Crumlin-Pedersen, 92).   
+    
 
 ---
 
