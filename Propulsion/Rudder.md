@@ -7,7 +7,7 @@ _**stýri** n, pl. stýri_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp
 
 <div align="center">
   
-  ![oar from Gokstad ship](../images/Nicolaysen_Oars.png)  
+  ![oar from Gokstad ship](../images/Rudder_Crumlin-Pedersen .png)  
   Oar from the Gokstad ship (Nicolaysen Pl. V, Fig. 1)
 
 </div>
