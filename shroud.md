@@ -2,7 +2,7 @@
 
 _**hanki** noun m., pl. hanki_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o31397)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=31926)]
 
-  A long wooden pole with a blade (ON _blað_) at one end and a handle (ON _hlumr_) at the other, pivoted in pairs on the side of a ship to propel the vessel through water.    
+  Part of the standing rigging apartus, used to    
 
 <div align="center">
   
