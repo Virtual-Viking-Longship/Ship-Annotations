@@ -1,7 +1,6 @@
-**_oar_** (English); _åre_ (Danish); _Riemen_ (German)
+**_shroud_** (English); _vant_ (Danish); _Want_ (German)
 
-_**ár** f., pl. árar_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o4167)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=4453)]  
-_**rœði** n., pl. rœði_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o65885)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=69061)]
+_**hanki** noun m., pl. hanki_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o31397)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=31926)]
 
   A long wooden pole with a blade (ON _blað_) at one end and a handle (ON _hlumr_) at the other, pivoted in pairs on the side of a ship to propel the vessel through water.    
 
