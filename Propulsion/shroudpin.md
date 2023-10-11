@@ -1,18 +1,19 @@
-**_oar_** (English); _åre_ (Danish); _Riemen_ (German)
+**_shroud_** (English); _vant_ (Danish); _Want_ (German)  
+**_shroud-pin_** (English); _vantnål_ (Danish); _Wantnadel, Wantenspanner_ (German)  
 
-_**ár** f., pl. árar_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o4167)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=4453)]  
-_**rœði** n., pl. rœði_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o65885)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=69061)]
 
-  A long wooden pole with a blade (ON _blað_) at one end and a handle (ON _hlumr_) at the other, pivoted in pairs on the side of a ship to propel the vessel through water.    
+_**hanki** noun m., pl. hanki_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o31397)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=31926)]
+
+  Part of the standing rigging apartus, used to fasten the rope supporting the ship's mast.    
 
 <div align="center">
   
   ![oar from Gokstad ship](../images/ShroudFastening_Ladby.png)  
-  Oar from the Gokstad ship (Nicolaysen Pl. V, Fig. 1)
+  Rendition of shroud and shroud pin (Sørensen 2001, Figure 1.2, p17)
 
 </div>
 
-  Oars were critical for moving and steering Viking ships, especially in unfavorable wind conditions, on rivers, and in close quarters naval combat. It is known that oars were painted and carved, adding character to indivdual oars (Jesch, 154).  The largest Viking ships could have more than 30 oars per side (Crumlin-Pedersen, 92).   
+   
 
 ---
 
