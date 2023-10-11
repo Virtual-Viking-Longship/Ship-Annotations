@@ -1,4 +1,4 @@
-**_gangway_** (English); _åre_ (Danish); _Riemen_ (German)
+**_gangplank_** (English); _åre_ (Danish); _Riemen_ (German)
 
 _**bryggja** f., °-u; -ur, gen. bryggna_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o4167)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=11326)]  
 
