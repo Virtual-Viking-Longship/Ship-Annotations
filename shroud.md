@@ -7,7 +7,7 @@ _**hanki** noun m., pl. hanki_ (Old Norse) [citations: [prose](https://onp.ku.dk
 <div align="center">
   
   ![oar from Gokstad ship](../images/ShroudFastening_Ladby.png)  
-  Oar from the Gokstad ship (Nicolaysen Pl. V, Fig. 1)
+  Rendition of shroud and shroud pin (Sørensen 2001, Figure 1.2, p17)
 
 </div>
 
