@@ -3,7 +3,7 @@
 _**reiði** n., pl. reiði_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o65885)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=69061)]
 
 
-Ropes used for manipulating the sail and holding the mast in place. Ropes supporting the mast are considered standing rigging, whereas the ropes that manipulate the sail are referred to as running rigging.
+Ropes which functioned to hold the mast. Old Norse makes little linguistic distinction in the differences between types of rigging, especially on warships, where the mast was frequently raised and lowered. Jesch notes that the Old Norse word for tackle, reiði, was often used as a general descriptor for rigging. (Jesch, 165) 
 <div align="center">
   
   ![oar from Gokstad ship](../images/Nicolaysen_Oars.png)  
@@ -11,7 +11,7 @@ Ropes used for manipulating the sail and holding the mast in place. Ropes suppor
 
 </div>
 
-   Old Norse makes little distinction in the differences between types of rigging, especially on warships, where the mast was frequently raised and lowered. Jesch notes that the Old Norse word for tackle, reiði, was often used as a general descriptor for rigging. (Jesch, 165)    
+     
 
 ---
 
