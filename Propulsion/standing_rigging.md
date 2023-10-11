@@ -3,8 +3,7 @@
 _**reiði** n., pl. reiði_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o65885)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=69061)]
 
 
-  A long wooden pole with a blade (ON _blað_) at one end and a handle (ON _hlumr_) at the other, pivoted in pairs on the side of a ship to propel the vessel through water.    
-
+Ropes used for manipulating the sail and holding the mast in place. Ropes supporting the mast are considered standing rigging, whereas the ropes that manipulate the sail are referred to as running rigging.
 <div align="center">
   
   ![oar from Gokstad ship](../images/Nicolaysen_Oars.png)  
@@ -12,7 +11,7 @@ _**reiði** n., pl. reiði_ (Old Norse) [citations: [prose](https://onp.ku.dk/on
 
 </div>
 
-  Oars were critical for moving and steering Viking ships, especially in unfavorable wind conditions, on rivers, and in close quarters naval combat. It is known that oars were painted and carved, adding character to indivdual oars (Jesch, 154).  The largest Viking ships could have more than 30 oars per side (Crumlin-Pedersen, 92).   
+   Old Norse makes little distinction in the differences between types of rigging, especially on warships, where the mast was frequently raised and lowered. Jesch notes that the Old Norse word for tackle, reiði, was often used as a general descriptor for rigging. (Jesch, 165)    
 
 ---
 
