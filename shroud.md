@@ -2,16 +2,16 @@
 
 _**hanki** noun m., pl. hanki_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o31397)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=31926)]
 
-  Part of the standing rigging apartus, used to    
+  Part of the standing rigging apartus, used to fasten the rope supporting the ship's mast.    
 
 <div align="center">
   
-  ![oar from Gokstad ship](../images/Nicolaysen_Oars.png)  
+  ![oar from Gokstad ship](../images/ShroudFastening_Ladby.png)  
   Oar from the Gokstad ship (Nicolaysen Pl. V, Fig. 1)
 
 </div>
 
-  Oars were critical for moving and steering Viking ships, especially in unfavorable wind conditions, on rivers, and in close quarters naval combat. It is known that oars were painted and carved, adding character to indivdual oars (Jesch, 154).  The largest Viking ships could have more than 30 oars per side (Crumlin-Pedersen, 92).   
+   
 
 ---
 
