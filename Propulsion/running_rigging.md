@@ -1,6 +1,4 @@
-**_standing rigging_** (English); _stående rig_ (Danish); _stehendes Gut_ (German)  
 **_running rigging_** (English); _løbende rig_ (Danish); _laufendes Gut_ (German)
-
 
 _**reiði** n., pl. reiði_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o65885)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=69061)]
 
