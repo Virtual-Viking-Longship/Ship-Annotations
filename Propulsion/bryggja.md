@@ -7,7 +7,7 @@ _**bryggja** f., °-u; -ur, gen. bryggna_ (Old Norse) [citations: [prose](https:
 <div align="center">
   
   ![gangplank from Gokstad ship](../images/gangplank_Gokstad.png)
-
+  Gangplank from the Gokstad ship (Nicolaysen Pl. V, Fig. 17)
 
 </div>
 
