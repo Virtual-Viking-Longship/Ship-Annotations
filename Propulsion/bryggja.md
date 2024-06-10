@@ -6,8 +6,8 @@ _**bryggja** f., °-u; -ur, gen. bryggna_ (Old Norse) [citations: [prose](https:
 
 <div align="center">
   
-  ![oar from Gokstad ship](../images/Nicolaysen_Oars.png)  
-  PLACEHOLDER IMAGE
+  ![gangplank from Gokstad ship](../images/gangplank_Gokstad.png)
+
 
 </div>
 
