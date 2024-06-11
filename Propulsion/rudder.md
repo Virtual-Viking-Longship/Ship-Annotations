@@ -2,12 +2,12 @@
 
 _**stýri** n., pl. stýri_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o76543)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=80522)]  
 
-  A large oar that served as the primary means of steering a viking ship, mounted vertically on the right, starboard (_stýr borð_) side and moved by the helmsman by means of a tiller.
+  A large oar that served as the primary means of steering a viking ship, mounted vertically on the right, starboard (_stýr borð_) side and controlled with a tiller by the helmsman or captain.
 
 <div align="center">
   
-  ![oar from Gokstad ship](../images/Rudder_Crumlin-Pedersen.png)  
-  Rudder from shipwreck found in Vorså, Denmark (Crumlin-Pedersen, Fig. 5.47).
+  ![oar from Gokstad ship](../images/Rudder_Gokstad.png)  
+  Rudder from the Gokstad ship burial (Nicolaysen, Pl. II, Fig. 4).
 
 </div>
 
@@ -15,10 +15,9 @@ _**stýri** n., pl. stýri_ (Old Norse) [citations: [prose](https://onp.ku.dk/on
 
 ---
 
+  Horte, Marianne Juelsgård. “Rudder and Tackle - The Steering Element.” _Vikingeskibs Museet_, 2015. https://www.vikingeskibsmuseet.dk/en/professions/education/all-about-the-viking-ship/the-hull-of-the-ship/rudder-and-tackle.
+
   Jesch, Judith. _Ships and Men in the Late Viking Age: The Vocabulary of Runic Inscriptions and Skaldic Verse._ NED-New edition. Woodbridge, Suffolk, UK ; Rochester, NY: 
 Boydell & Brewer, 2001. https://www.jstor.org/stable/10.7722/j.ctt163tb4f.
 
-  Crumlin-Pedersen, Ole. 1996. _Viking-Age Ships and Shipbuilding in Hedeby._ Illustrated edition. Roskilde: Viking Ship Museum.
-
-  Horte, Marianne Juelsgård. “Rudder and Tackle - The Steering Element.” _Vikingeskibs Museet_, 2015. https://www.vikingeskibsmuseet.dk/en/professions/education/all-about-the-viking-ship/the-hull-of-the-ship/rudder-and-tackle.
-
+  Nicolaysen, N. _Langskibet fra Gokstad ved Sandefjord_. Kristiania: Alb. Cammermeyer, 1882.
