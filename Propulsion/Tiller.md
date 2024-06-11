@@ -3,7 +3,7 @@
 
 _**stýri** n, pl. stýri_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o76543)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=80522)]  
 
-  The tiller was a wooden pin, utilized by the helmsman to control the angle and depth of the rudder. Tillers and rudders were often highly decorated.    
+  The tiller was a wooden pin, utilized by the helmsman to control the angle and depth of the rudder. 
 
 <div align="center">
   
