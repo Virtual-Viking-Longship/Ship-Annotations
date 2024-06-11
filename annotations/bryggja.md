@@ -6,7 +6,7 @@ _**bryggja** f., pl. bryggjur_ (Old Norse) [citations: [prose](https://onp.ku.dk
 
 <div align="center">
   
-  ![gangplank from Gokstad ship](../images/gangplank_Gokstad.png)
+  ![gangplank from Gokstad ship](../images/Gangplank_Gokstad.png)
   Gangplank from the Gokstad ship (Nicolaysen Pl. VI, Fig. 17)
 
 </div>
