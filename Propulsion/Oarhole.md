@@ -12,7 +12,7 @@ _**hamla** f., pl. hǫmlur_ (Old Norse) [citation: [prose](https://onp.ku.dk/onp
 
 </div>
 
-  A common practice was to levy taxes based on the amount of oarports present on a ship; Harthacnut's tax of 8 marks on each crew member, for example, was tabulated by the number of oarsmen's places (oarports) (Jesch, 156). Jesch discusses the occurence of these two words throughout the Skaldic corpus; though the words were oftentimes utilized in different contexts, both tend to refer metaphorically to the oarsman's place at the oar, as opposed to a specific device (Jesch, 156).
+  A common practice was to levy taxes based on the amount of oarports present on a ship; Harthacnut's tax of 8 marks on each crew member, for example, was tabulated by the number of oarsmen's places (oarports) (Jesch, 156). Jesch discusses the occurence of these two words throughout the Skaldic corpus; though the words were oftentimes utilized in different contexts, both tend to refer metaphorically to a unit of oarsmen placed at the oar, as opposed to a specific device (Jesch, 156).
          
 
 ---
