@@ -1,9 +1,8 @@
-**_oar_** (English); _åre_ (Danish); _Riemen_ (German)
+**_parrel_** (English); _rakke_ (Danish); _racke_ (German)
 
-_**ár** f., pl. árar_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o4167)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=4453)]  
-_**rœði** n., pl. rœði_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o65885)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=69061)]
+_**rakki** m., pl.(Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o4167)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=4453)]  --> don't have the citations figured out yet. 
 
-  A long wooden pole with a blade (ON _blað_) at one end and a handle (ON _hlumr_) at the other, pivoted in pairs on the side of a ship to propel the vessel through water.    
+  A rope loop or a sliding collar by which a yard is held to a mast in such a way that it may be lowered. 
 
 <div align="center">
   
@@ -12,7 +11,7 @@ _**rœði** n., pl. rœði_ (Old Norse) [citations: [prose](https://onp.ku.dk/on
 
 </div>
 
-  Oars were critical for moving and steering Viking ships, especially in unfavorable wind conditions, on rivers, and in close quarters naval combat. It is known that oars were painted and carved, adding character to indivdual oars (Jesch, 154).  The largest Viking ships could have more than 30 oars per side (Crumlin-Pedersen, 92).   
+A wooden parrel was used to clip the yard, so it would be held to the mast and prevent it from being swung outward.
 
 ---
 
