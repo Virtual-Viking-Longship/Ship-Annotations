@@ -3,7 +3,7 @@
 _**há-bora** f., pl. háborurnar, haborum_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o30226)/ [poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=4453)]
       
 
-  Oar-grommets were used for 
+Oar-grommets were used for holding the oars in place when rowing. 
 <div align="center">
   
   ![oar from Gokstad ship](../images/Nicolaysen_Oars.png)  
