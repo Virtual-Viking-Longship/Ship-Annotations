@@ -16,7 +16,10 @@ A wooden parrel is tied to the middle part of the yard when the sail is in use a
 ---
 
   Jesch, Judith. _Ships and Men in the Late Viking Age: The Vocabulary of Runic Inscriptions and Skaldic Verse._ NED-New edition. Woodbridge, Suffolk, UK ; Rochester, NY: 
+  
   Crumlin-Peterson, Ole. Viking-Age Ships and Ship Building . Vol. 2 of Ships & Boats of the North. Roskilde, Denmark: The Viking Ship Museum, 1997. 
+
+  Brøgger, A. W., Haakon Shetelig, Hjalmar Falk, and Kulturhistorisk museum (Oslo). “Osebergfundet. 1.” In Osebergfundet. Oslo: Oslo : Distribuert ved Universitetets Oldsaksamling, 1917-2006., 1917. https://urn.nb.no/URN:NBN:no-nb_digibok_2019111248002.
 
 
 
