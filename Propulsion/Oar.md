@@ -2,7 +2,7 @@
 
 _**rakki** m., pl.(Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?c514861)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=66385)]
 
- A semi-circular piece of wood around the mast.  
+A piece of wood that connects the yard to the mast. 
 
 <div align="center">
   
@@ -11,12 +11,13 @@ _**rakki** m., pl.(Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?
 
 </div>
 
-A wooden parrel was used to clip the yard, so it would be held to the mast and prevent it from being swung outward.
+A wooden parrel is tied to the middle part of the yard when the sail is in use and untied when the sail is taken down. Ships will typically have a hole for seperate lashings to the yard at either end of the parrel. 
 
 ---
 
   Jesch, Judith. _Ships and Men in the Late Viking Age: The Vocabulary of Runic Inscriptions and Skaldic Verse._ NED-New edition. Woodbridge, Suffolk, UK ; Rochester, NY: 
-Boydell & Brewer, 2001. https://www.jstor.org/stable/10.7722/j.ctt163tb4f.
+  Crumlin-Peterson, Ole. Viking-Age Ships and Ship Building . Vol. 2 of Ships & Boats of the North. Roskilde, Denmark: The Viking Ship Museum, 1997. 
+
 
 
 
