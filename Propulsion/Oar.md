@@ -6,8 +6,8 @@ A piece of wood that connects the yard to the mast.
 
 <div align="center">
   
-  ![oar from Gokstad ship](../images/Nicolaysen_Oars.png)  --> still working on finding an image 
-  Oar from the Gokstad ship (Nicolaysen Pl. V, Fig. 1)
+  ![Parrel from Oseberg Ship](../images/Parrel_Oseberg.png)   
+  Parrel from Oseberg Ship (Brøgger Fig. 121)
 
 </div>
 
