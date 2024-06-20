@@ -8,8 +8,8 @@ A rope or cable that supports the mast from either side.
 
 <div align="center">
   
-  ![oar from Gokstad ship](../images/Oar_Gokstad.png)  
-  Oar from the Gokstad ship (Nicolaysen Pl. V, Fig. 1)
+  ![standing rigging from Gokstad ship](../images/StandingRigging_Gokstad.png)  
+  Shroud and standing rigging holding up mast from the Gokstad ship (Nicolaysen Pl. III, Fig. 3)
 
 </div>
 
