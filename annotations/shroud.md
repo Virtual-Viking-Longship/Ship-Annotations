@@ -14,7 +14,7 @@ A rope or cable that supports the mast from either side.
 </div>
 
   
-Typically, boats would contain a mast steadied by a stay lashed to the forepost, and two to three shrounds on each side of the post. (Nicholayson 20)
+Typically, boats would contain a mast steadied by a stay lashed to the forepost, and two to three shrounds on each side of the post. The shrouds require a system for tightening the ropes and adjusting them on various occasions in the course of the sailing season. (Nicholayson 20)
 
 ---
 
