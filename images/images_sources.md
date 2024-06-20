@@ -7,9 +7,11 @@
  - Treenails_Ladby.png (Sørensen 2001, Figure 1.5, p18)
  - Anchor_Ladby.png (Sørensen 2001, Figure 1.6, p18)
  - CrossSections_Ladby.png (Sørensen 2001, Figure 6.3, p211)
- - Oars_Gokstad.png (Nicolaysen 1911, Pl. V, Figure 1, p93 ) 
+ - Oars_Gokstad.png (Nicolaysen 1911, Pl. V, Figure 1, p93 )
+ - oarports.png (Crumlin-Petersen 1996, Figure 5.12, p116) 
 
 # Sources
+Crumlin-Petersen, O. _Viking-Age Ships and Shipbuilding in Hedeby._ 
 
 Sørensen, Anne C. _Ladby: A Danish Ship-Grave from the Viking Age._ Ships and Boats of the North 3. Roskilde: The Viking Ship Museum [u.a.], 2001.
 
