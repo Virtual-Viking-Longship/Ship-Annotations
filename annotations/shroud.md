@@ -1,8 +1,6 @@
 **_shroud_** (English); _vant_ (Danish); _Want_ (German)
 
-
-not to be confused with hofubendur which means 'backstays'. 
-_**höfuðbenda** f., pl. repword_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o39309)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=4453)]  --> cannot find the poetry definition! 
+_**höfuðbenda** f., pl. höfuðbendur_ (Old Norse) [citations:[prose](https://onp.ku.dk/onp/onp.php?o39309)/[poetry](https://skaldic.org/m.php?p=verse&i=1248&x=0&v=t)]
 
 A rope or cable that supports the mast from either side. 
 
