@@ -2,17 +2,18 @@
 
 _**höfuðbenda** f., pl. höfuðbendur_ (Old Norse) [citations:[prose](https://onp.ku.dk/onp/onp.php?o39309)/[poetry](https://skaldic.org/m.php?p=verse&i=1248&x=0&v=t)]
 
-A rope or cable that supports the mast from either side. 
+A rope or cable that supports the mast from either side, connected by a shroud-ring to the shroud-pin: a curved wooden pin which tightened and loosened supporting ropes to the mast. 
 
 <div align="center">
   
   ![standing rigging from Gokstad ship](../images/StandingRigging_Gokstad.png)  
   Shroud and standing rigging holding up mast from the Gokstad ship (Nicolaysen Pl. III, Fig. 3)
+  --> BURIAL CHAMBER CHANGE IMAGE 
 
 </div>
 
   
-Typically, boats would contain a mast steadied by a stay lashed to the forepost, and two to three shrounds on each side of the post. The shrouds require a system for tightening the ropes and adjusting them on various occasions in the course of the sailing season. (Nicholayson 20)
+Typically, boats would contain a mast steadied by a stay lashed to the forepost, and two to three shrounds on each side of the post. The shrouds require a system for tightening the ropes and adjusting them on various occasions in the course of the sailing season, this would involve the shroud-pin and shroud-ring which would connect the ropes to a pulley sytem in order to loosen and tighten supporting ropes. (Nicholayson 20)
 
 ---
 
