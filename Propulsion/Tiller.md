@@ -1,4 +1,4 @@
- 
+  
 **_tiller_** (English); _rorpind_ (Danish); _Ruderpinne_ (German)
 
 _**stýri** n, pl. stýri_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o76543)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=80522)]  
