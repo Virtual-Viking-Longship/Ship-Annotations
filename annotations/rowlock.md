@@ -7,6 +7,7 @@ Pins on the upper edge of boats’ sides, which allowed for rowing and for oars 
 <div align="center">
   
   ![rowlocks from Gokstad ship](../images/Rowlocks_Gokstad.png)
+  
   rocklocks from the Gokstad ship (Nicolaysen Pl. V, Fig. 5,6,9,13,15,)
 
 The various methods of mounting rowlocks were probably primarily determined by the thickness of the ships’ sheerstrakes (Crumlin-Pedersen, 126). 
