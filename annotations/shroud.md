@@ -6,9 +6,8 @@ A rope or cable that supports the mast from either side, connected by a shroud-r
 
 <div align="center">
   
-  ![standing rigging from Gokstad ship](../images/StandingRigging_Gokstad.png)  
-  Shroud and standing rigging holding up mast from the Gokstad ship (Nicolaysen Pl. III, Fig. 3)
-  --> BURIAL CHAMBER CHANGE IMAGE 
+  ![ropework replica from Oseberg ship](../images/Ropework_Oseberg.png)  
+  A replication of what ropework would have looked like on the Oseberg ship. (Brøgger Pg. 307, Fig. 107)
 
 </div>
 
@@ -23,3 +22,5 @@ Boydell & Brewer, 2001. https://www.jstor.org/stable/10.7722/j.ctt163tb4f.
 Crumlin-Pedersen, Ole. 1996. _Viking-Age Ships and Shipbuilding in Hedeby._ Illustrated edition. Roskilde: Viking Ship Museum.
 
 Nicolaysen, N. Langskibet fra Gokstad ved Sandefjord. Kristiania: Alb. Cammermeyer, 1882.
+
+Brøgger, Anton W., and Arne Emil Christensen. Osebergfundet. Kristiania: Univ. Oldsaksamling, 1917. 
