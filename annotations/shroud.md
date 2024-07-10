@@ -22,4 +22,4 @@ Boydell & Brewer, 2001. https://www.jstor.org/stable/10.7722/j.ctt163tb4f.
 
 Nicolaysen, N. Langskibet fra Gokstad ved Sandefjord. Kristiania: Alb. Cammermeyer, 1882.
 
-Brøgger, Anton W., and Arne Emil Christensen. Osebergfundet. Kristiania: Univ. Oldsaksamling, 1917. 
+Wolfmann, _Saga Oseberg Details shroud-pins or vantnales to secure the shrouds to the hull, gunwale, oarholes, knees, deck etc Viking ship replica 2012 Tønsberg harbour Norway 2019-08-16 04307.jpg,_ CC BY-SA 4.0, via Wikimedia Commons. 
