@@ -6,7 +6,7 @@ A rope or cable that supports the mast from either side, connected by a shroud-r
 
 <div align="center">
   
-  ![ropework replica from Oseberg ship](../images/Ropework_Oseberg.png)  
+  ![shroud-pin holding shroud on Saga Oseberg replica ship](../images/ShroudwPin_OsebergReplica.jpg)  
   A replication of what ropework would have looked like on the Oseberg ship. (Brøgger Pg. 307, Fig. 107)
 
 </div>
