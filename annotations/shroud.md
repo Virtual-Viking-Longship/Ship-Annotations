@@ -2,7 +2,7 @@
 
 _**höfuðbenda** f., pl. höfuðbendur_ (Old Norse) [citations:[prose](https://onp.ku.dk/onp/onp.php?o39309)/[poetry](https://skaldic.org/m.php?p=verse&i=1248&x=0&v=t)]
 
-A rope or cable that supports the mast from either side, connected by a shroud-ring to the shroud-pin: a curved wooden pin which tightened and loosened supporting ropes to the mast. 
+A rope or cable that supports the mast from either side, connected to a shroud-ring in the hull by a shroud-pin: a curved wooden pin which could be loosened quickly to lower the mast. 
 
 <div align="center">
   
