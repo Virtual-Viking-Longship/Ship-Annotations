@@ -12,7 +12,7 @@ A rope or cable that supports the mast from either side, connected to a shroud-r
 </div>
 
   
-Typically, boats would contain a mast steadied by a stay lashed to the forepost, and two to three shrounds on each side of the post. The shrouds require a system for tightening the ropes and adjusting them on various occasions in the course of the sailing season, this would involve the shroud-pin and shroud-ring which would connect the ropes to a pulley sytem in order to loosen and tighten supporting ropes. (Nicholayson 20)
+The standing rigging of Viking ships typically steadied the mast with a stay lashed to the forestem, and two or more shrouds connected to the hull on each side. The shrouds would need to be loosened in a hurry to lower the mast in order to pass under bridges, and the shroud-pin could be slipped out of the shroud-ring to quickly loosen the supporting ropes (Nicolaysen 20). This may explain why the distinction between standing and running rigging was less relevant in Old Norse vocabulary, since the mast was regularly raised and lowered just like the sail (Jesch 165).  
 
 ---
 
