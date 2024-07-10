@@ -1,4 +1,5 @@
 **_shroud_** (English); _vant_ (Danish); _Want_ (German)
+**_shroud-pin_** (English); _vantnål_ (Danish); _Wantnadel, Wantenspanner_ (German)
 
 _**höfuðbenda** f., pl. höfuðbendur_ (Old Norse) [citations:[prose](https://onp.ku.dk/onp/onp.php?o39309)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=40452)]
 
