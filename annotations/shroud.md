@@ -1,6 +1,6 @@
 **_shroud_** (English); _vant_ (Danish); _Want_ (German)
 
-_**höfuðbenda** f., pl. höfuðbendur_ (Old Norse) [citations:[prose](https://onp.ku.dk/onp/onp.php?o39309)/[poetry](https://skaldic.org/m.php?p=verse&i=1248&x=0&v=t)]
+_**höfuðbenda** f., pl. höfuðbendur_ (Old Norse) [citations:[prose](https://onp.ku.dk/onp/onp.php?o39309)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=40452)]
 
 A rope or cable that supports the mast from either side, connected to a shroud-ring in the hull by a shroud-pin: a curved wooden pin which could be loosened quickly to lower the mast. 
 
