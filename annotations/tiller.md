@@ -1,7 +1,7 @@
   
 **_tiller_** (English); _rorpind_ (Danish); _Ruderpinne_ (German)
 
-_**stýri** n, pl. stýri_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o76543)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=80522)]  
+_**hjalm-vǫlr / hjǫlmunvǫlr** m._ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o34638)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=35728)]  
 
   The tiller was a wooden pin, utilized by the helmsman to control the angle and depth of the rudder. 
 
