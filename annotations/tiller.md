@@ -3,7 +3,7 @@
 
 _**hjalm-vǫlr / hjǫlmunvǫlr** m._ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o34638)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=35728)]  
 
-  The tiller was a wooden pin, utilized by the helmsman to control the angle and depth of the rudder. 
+  A wooden lever attached at right angles to the top of the rudder, used by the helmsman to steer a ship. 
 
 <div align="center">
   
