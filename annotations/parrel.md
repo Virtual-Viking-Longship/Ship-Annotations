@@ -16,7 +16,7 @@ A wooden parrel is tied to the middle part of the yard around the mast when the 
 
   Bischoff, Vibeke. “Viking-Age Sails: Form and Proportion.” _Journal of Maritime Archaeology_ 12, no. 1 (2017): 1–24. https://doi.org/10.1007/s11457-016-9167-2.
 
-Brøgger, A. W., Hjalmar Falk, and Haakon Shetelig. _Osebergfundet. 1._ Kristiania: Universitetets Oldsaksamling, 1917. https://urn.nb.no/URN:NBN:no-nb_digibok_2019111248002.
+  Brøgger, A. W., Hjalmar Falk, and Haakon Shetelig. _Osebergfundet. 1._ Kristiania: Universitetets Oldsaksamling, 1917. https://urn.nb.no/URN:NBN:no-nb_digibok_2019111248002.
 
 
 
