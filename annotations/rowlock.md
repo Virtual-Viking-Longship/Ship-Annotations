@@ -2,7 +2,7 @@
 
 _**keipr** m., pl. keipar_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o42936)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=44158)]  
 
-Pins on the upper edge of boats’ sides, which allowed for rowing and for oars to be rested. 
+Curved wood on the upper edge of boats’ sides, which allowed for rowing and for oars to be rested. A tholepin was used as a fulcrum for oars on smaller vessels. 
 
 <div align="center">
   
