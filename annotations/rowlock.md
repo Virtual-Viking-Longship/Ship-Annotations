@@ -1,4 +1,5 @@
-**_rowlock_** (English); _åretol_ (Danish); _Riemendolle_ (German)
+**_rowlock_** (English); _åretol_ (Danish); _Riemendolle_ (German)  
+**_thole-pin_** (English); _tollepind_ (Danish); _Dolle_ (German)
 
 _**keipr** m., pl. keipar_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o42936)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=44158)]  
 
