@@ -11,7 +11,7 @@ _**hjalm-vǫlr / hjǫlmunvǫlr** m._ (Old Norse) [citations: [prose](https://onp
 
 </div>
 
-  Tillers were most useful when sailing a ship in shallow waters, as the rudder was required to be moved out of its normal position in order to prevent running aground.  (Crumlin-Pedersen, 92).   
+  The tiller was the primary means for steering a Viking ship; by pushing and pulling the tiller fore and aft the attached rudder rotated laterally to control the direction of the ship. The ON verb _stýra_ literally means holding the tiller and directing the ship, but is also used metaphorically in the corpus of Skaldic poetry to refer to a captain's command of one or more ships (Jesch 174). The importance of the tiller is indicated by the elaborate decoration of the Gokstad find, which was carved and painted in three colors, in contrast to much of the rest of the ship (Nicolaysen 67-8).
 
 ---
 
@@ -19,6 +19,7 @@ _**hjalm-vǫlr / hjǫlmunvǫlr** m._ (Old Norse) [citations: [prose](https://onp
 Boydell & Brewer, 2001. https://www.jstor.org/stable/10.7722/j.ctt163tb4f.
 
 
-  Crumlin-Pedersen, Ole. 1996. _Viking-Age Ships and Shipbuilding in Hedeby._ Illustrated edition. Roskilde: Viking Ship Museum.
+  Nicolaysen, N. _Langskibet fra Gokstad ved Sandefjord_. Kristiania: Alb. Cammermeyer, 1882.
+
 
 
