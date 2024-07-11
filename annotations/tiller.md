@@ -7,11 +7,13 @@ _**hjalm-vǫlr / hjǫlmunvǫlr** m._ (Old Norse) [citations: [prose](https://onp
 
 <div align="center">
   
+  ![tiller from Gokstad ship](../images/Tiller_Gokstad.jpg)  
+  Elaborately decorated and carved tiller from the Gokstad ship (Nicolaysen Pl. XI, Fig. 1)
 
 
 </div>
 
-  The tiller was the primary means for steering a Viking ship; by pushing and pulling the tiller fore and aft the attached rudder rotated laterally to control the direction of the ship. The ON verb _stýra_ literally means holding the tiller and directing the ship, but is also used metaphorically in the corpus of Skaldic poetry to refer to a captain's command of one or more ships (Jesch 174). The importance of the tiller is indicated by the elaborate decoration of the Gokstad find, which was carved and painted in three colors, in contrast to much of the rest of the ship (Nicolaysen 67-8).
+  The tiller was the primary means for steering a Viking ship; by pushing and pulling the tiller fore and aft the attached side rudder rotated laterally in the water. The ON verb _stýra_ literally means holding the tiller and directing the ship but is also used metaphorically in the corpus of Skaldic poetry to refer to a captain's command of one or more ships (Jesch 174). The importance of the tiller and helmsman position is indicated by the elaborate decoration of the Gokstad find, which was carved and painted in three colors, in contrast to the less decorated other parts of the ship (Nicolaysen 67-8).
 
 ---
 
