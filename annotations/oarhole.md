@@ -4,7 +4,7 @@ _**hár** f., pl. háir_ (Old Norse) [citation: [prose](https://onp.ku.dk/onp/on
 _**hamla** f., pl. hǫmlur_ (Old Norse) [citation: [prose](https://onp.ku.dk/onp/onp.php?o31115)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=31626)]   
 
 
-  Holes through an upper strake of the hull, which acted as fulcrums for rowing the oars of a Viking ship.
+  Holes through an upper strake of the hull that acted as fulcrums for rowing the oars of a Viking ship.
 
 <div align="center">
   
