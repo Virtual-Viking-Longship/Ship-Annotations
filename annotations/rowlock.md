@@ -11,6 +11,8 @@ A fulcrum for oars on smaller vessels, where oarholes would not be practical.
   
   Carved rowlocks from the boats in the Gokstad ship, with holes drilled to accept the oar-grommets (Nicolaysen Pl. V, Fig. 5,6,9,13,15)
 
+</div>
+
 In the Viking Age, the oars of small boats were usually pulled against curved wood on the upper strake of boats’ sides, and/or thole pins driven into holes in the gunwale (Jesch, 155). Both were often held in place by oar-grommets (ON _ hömlu-bönd_). The various methods of mounting rowlocks were probably primarily determined by the thickness of the ships’ sheerstrakes (Crumlin-Pedersen, 126). 
 
 ---
