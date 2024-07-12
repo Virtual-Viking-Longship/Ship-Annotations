@@ -10,6 +10,7 @@
  - Oars_Gokstad.png (Nicolaysen 1911, Pl. V, Figure 1, p93)
  - Oarholes_Gokstand_Ex.jpg (Nicolaysen 1911, Pl. I, Figure 1) 
  - Oarholes_Gokstand_In.jpg (Nicolaysen 1911, Pl. I, Figure 4) 
+ - OarholeLocks_Gokstad.png (Nicolaysen 1911, Pl. IV, Figure 5,6,9,10)
 
 # Sources
 Crumlin-Petersen, O. _Viking-Age Ships and Shipbuilding in Hedeby._ 
