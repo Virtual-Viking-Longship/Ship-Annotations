@@ -2,22 +2,20 @@
 
 _unattested_ (Old Norse)
 
-  A small wooden device used to to close the oarholes when not in use to prevent the ship taking on water.     
+  A small wooden device used to close the oarholes when not in use to prevent the ship taking on water.     
 
 <div align="center">
   
-  ![oarhole-lock from Hedeby ship](../images/Nicolaysen_Oarhole_lock.png)  
-  Oarhole-lock from ship found in the Hedeby harbor, located in present-day Busdorf, Schelswig-Holstein, Germany. (Crumlin-Pedersen, 1996, Figure 5.28, p127)
+  ![oarhole-locks from Gokstad](../images/OarholeLocks_Gokstad.png)  
+  Ornamented oarhole-locks from the Gokstad ship with pivot holes and a slit to receive a locking pin. (Crumlin-Pedersen, 1996, Figure 5.28, p127)
 
 </div>
 
-  Various sources of combined evidence suggest that these locks may have been part of the personal equipment brought onboard by the crew, as opposed to a standard element of the ship's equipment (Crumlin-Petersen, 126).     
+  The exact shape and function of oarhole-locks varies between ship finds: those at Hedeby are simple plugs, while the locks from Gokstad pivoted and latched on pins driven into the hull on either side of the hole (Nicolaysen 59). Oarhole-locks may have "belonged" to each rower, as many were personalised with carved decorations (Crumlin-Petersen 126).     
 
 ---
 
-  Jesch, Judith. _Ships and Men in the Late Viking Age: The Vocabulary of Runic Inscriptions and Skaldic Verse._ NED-New edition. Woodbridge, Suffolk, UK ; Rochester, NY: 
-Boydell & Brewer, 2001. https://www.jstor.org/stable/10.7722/j.ctt163tb4f.
-
+  Nicolaysen, N. _Langskibet fra Gokstad ved Sandefjord_. Kristiania: Alb. Cammermeyer, 1882. 
 
   Crumlin-Pedersen, Ole. 1996. _Viking-Age Ships and Shipbuilding in Hedeby._ Illustrated edition. Roskilde: Viking Ship Museum.
 
