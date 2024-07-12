@@ -11,6 +11,16 @@
  - Oarholes_Gokstand_Ex.jpg (Nicolaysen 1911, Pl. I, Figure 1) 
  - Oarholes_Gokstand_In.jpg (Nicolaysen 1911, Pl. I, Figure 4) 
  - OarholeLocks_Gokstad.png (Nicolaysen 1911, Pl. IV, Figure 5,6,9,10)
+ - Keel_Cross_Section_Gokstad.png (Nicolaysen Pl. II, Figs. 8, 9, and 10)
+ - Keel_Gokstad.png (Nicolaysen Pl. I, Fig. 4)
+ - Kerling_00_Gokstad.png (Nicolaysen Pl. II, Fig. 2)
+ - Ribs_00_Gokstad.png (Nicolaysen Pl. II, Fig. 2)
+ - Stem_00_Gokstad.png (Nicolaysen Pl. I, Fig. 1)
+ - Stem_01_Gokstad.png (Nicolaysen Pl. I, Fig. 1)
+ - Strakes_00_Gokstad.png (Nicolaysen Pl. III, Fig. 4)
+ - Strakes_01_Gokstad.png (Nicolaysen Pl. II, Fig. 7)
+ - Transition_Piece_00_Gokstad.png (Nicolaysen Pl. I, Fig. 4)
+ - Transition_Piece_01_Gokstad.png (Nicolaysen Pl. I, Fig. 4)
 
 # Sources
 Crumlin-Petersen, O. _Viking-Age Ships and Shipbuilding in Hedeby._ 
