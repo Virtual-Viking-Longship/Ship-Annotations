@@ -16,7 +16,7 @@ _**hamla** f., pl. hǫmlur_ (Old Norse) [citation: [prose](https://onp.ku.dk/onp
 
 </div>
 
-Ships needed high sides to keep out waves at sea, so oars were put through holes in an upper strake rather than rowlocks atop the gunwale used in smaller boats (Crumlin-Pedersen 128). The number of oarholes, and therefore oarsmen, determined the size of a ship's company, and taxes were often levied based on the amount of oarports present on a ship (Jesch 156).
+Ships needed high sides to keep out waves at sea, so oars were put through holes in an upper strake rather than rowlocks atop the gunwale as in smaller boats (Crumlin-Pedersen 128). The number of oarholes, centered on "rooms" between the beams, determined the size of a ship's company, and taxes were often levied based on the amount of oarports present on a ship (Jesch 156).
          
 
 ---
