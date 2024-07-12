@@ -1,6 +1,6 @@
 **_oarhole, oarport_** (English); _årehul_ (Danish); _Riemenloch_ (German)
 
-_**hár** f., pl. háir_ (Old Norse) [citation: [prose](https://onp.ku.dk/onp/onp.php?o31447)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=31982)]     
+_**hár** f., pl. háir_ (Old Norse) [citation: [prose](https://onp.ku.dk/onp/onp.php?o31447)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=31978)]     
 _**hamla** f., pl. hǫmlur_ (Old Norse) [citation: [prose](https://onp.ku.dk/onp/onp.php?o31115)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=31626)]   
 
 
