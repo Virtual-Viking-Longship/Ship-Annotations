@@ -1,6 +1,6 @@
 **_oarhole-lock_** (English); _årehulslukke_ (Danish); _Riemenlochverschluss_ (German)
 
-_**ár** f., pl. árar_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o4167)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=4453)] --> change 
+_unattested_ (Old Norse)
 
   A small wooden tool used to to close the oarholes in the hulls of viking ships when the oars weren't in use, in order to prevent water from flooding the hull.     
 
