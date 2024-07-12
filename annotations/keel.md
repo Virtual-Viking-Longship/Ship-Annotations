@@ -6,9 +6,10 @@
 
 <div align="center">
   
-   ![keel from the Gokstad ship](/images/Nicolaysen_Keel.png)  
+   ![keel from the Gokstad ship](../images/Keel_Gokstad.png)  
    Longitudinal section of the keel from the Gokstad ship (Nicolaysen Pl. I, Fig. 4)
-   ![keel cross section from Gokstad ship](/images/Nicolaysen_Keel_Cross_Section.png)  
+   
+   ![keel cross section from Gokstad ship](../images/Keel_Cross_Section_Gokstad.png)  
    Cross section of the keel from the Gokstad ship (Nicolaysen Pl. II, Figs. 8, 9, and 10)
 
 </div>

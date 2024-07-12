@@ -6,7 +6,7 @@
 
 <div align="center">
   
-   ![Gokstad ship showing the keelson resting on four ribs and the keel](/images/Nicolaysen_Kerling_00.png)  
+   ![Gokstad ship showing the keelson resting on four ribs and the keel](../images/Kerling_00_Gokstad.png)  
    Cross section of the Gokstad ship showing the keelson resting on four ribs and the keel (Nicolaysen Pl. II, Fig. 2)
 
 </div>

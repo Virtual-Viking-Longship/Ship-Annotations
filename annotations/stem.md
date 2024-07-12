@@ -6,9 +6,10 @@
 
 <div align="center">
   
-   ![fore-stem of the Gokstad ship](/images/Nicolaysen_Stem_00.png)  
+   ![fore-stem of the Gokstad ship](../images/Stem_00_Gokstad.png)  
    Fore-stem of the Gokstad ship (Nicolaysen Pl. I, Fig. 1)
-   ![after-stem of Gokstad ship](/images/Nicolaysen_Stem_01.png)  
+   
+   ![after-stem of Gokstad ship](../images/Stem_01_Gokstad.png)  
    After-stem of the Gokstad ship (Nicolaysen Pl. I, Fig. 1)
 
 </div>

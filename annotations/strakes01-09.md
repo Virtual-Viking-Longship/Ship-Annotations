@@ -7,9 +7,10 @@
 
 <div align="center">
   
-   ![strakes on the Gokstad ship with stem and transition piece](/images/Nicolaysen_Strakes_00.png)  
+   ![strakes on the Gokstad ship with stem and transition piece](../images/Strakes_00_Gokstad.png)  
    Strakes on the Gokstad ship with stem and transition piece (Nicolaysen Pl. III, Fig. 4)
-   ![cross section of the Gokstad ship amidship](/images/Nicolaysen_Strakes_01.png)  
+   
+   ![cross section of the Gokstad ship amidship](../images/Strakes_01_Gokstad.png)  
    Cross section of the Gokstad ship amidship, showing the clinker-built construction of the hull (Nicolaysen Pl. II, Fig. 7)
 
 </div>

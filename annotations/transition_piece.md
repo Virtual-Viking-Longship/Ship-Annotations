@@ -8,6 +8,7 @@ _**barð**_ n. (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o69
   
    ![fore-stem of the Gokstad ship](../images/Transition_Piece_00_Gokstad.png)  
    Fore-transition piece of the Gokstad ship (Nicolaysen Pl. I, Fig. 4)
+   
    ![after-stem of Gokstad ship](../images/Transition_Piece_01_Gokstad.png)  
    After-transition piece of the Gokstad ship (Nicolaysen Pl. I, Fig. 4)
 
