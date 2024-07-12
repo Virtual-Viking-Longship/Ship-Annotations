@@ -2,7 +2,7 @@
 
 _unattested_ (Old Norse)
 
-  A small wooden tool used to to close the oarholes in the hulls of viking ships when the oars weren't in use, in order to prevent water from flooding the hull.     
+  A small wooden device used to to close the oarholes when not in use to prevent the ship taking on water.     
 
 <div align="center">
   
