@@ -11,7 +11,8 @@ A rope connecting and supporting the top of the mast to the forestem of the ship
 
 </div>
 
-  The stay was critical for supporting the yard to the mast-head and forcing the sail to 'stay' up during high winds. (Jesch, 165). They were fixed around the top of the mast, and close under the place where the ropes met, a hole was made which the hoisting rope for the yard was then passed through (Nicolaysen, 20).  
+  The stay was critical for supporting the yard to the mast-head and forcing the sail to 'stay' up during high winds. (Jesch, 165). They were fixed around the top of the mast, and close under the place where the ropes met, a hole was made which the hoisting rope for the yard was then passed through (Nicolaysen, 20). 
+  
 ---
 
   Jesch, Judith. _Ships and Men in the Late Viking Age: The Vocabulary of Runic Inscriptions and Skaldic Verse._ NED-New edition. Woodbridge, Suffolk, UK ; Rochester, NY: 
