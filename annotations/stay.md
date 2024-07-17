@@ -6,8 +6,8 @@ A rope connecting and supporting the top of the mast to the forestem of the ship
 
 <div align="center">
   
-  ![oar from Gokstad ship](../images/Oar_Gokstad.png)  
-  Oar from the Gokstad ship (Nicolaysen Pl. V, Fig. 1)
+  ![Stay and rigging on ship](../images/Stay_sources.png)  
+  Example of the stay holding the mast up on a ship. 
 
 </div>
 
