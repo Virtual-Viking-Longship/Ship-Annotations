@@ -18,4 +18,4 @@ A rope connecting and supporting the top of the mast to the forestem of the ship
   Jesch, Judith. _Ships and Men in the Late Viking Age: The Vocabulary of Runic Inscriptions and Skaldic Verse._ NED-New edition. Woodbridge, Suffolk, UK ; Rochester, NY: 
 Boydell & Brewer, 2001. https://www.jstor.org/stable/10.7722/j.ctt163tb4f.
 
-  Crumlin-Pedersen, Ole. 1996. _Viking-Age Ships and Shipbuilding in Hedeby._ Illustrated edition. Roskilde: Viking Ship Museum.
+Smith , Cathy. Shrouds and Stays. Photograph. Erie, PA, September 8, 2016. Erie, PA. 
