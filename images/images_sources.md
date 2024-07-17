@@ -8,9 +8,12 @@
  - Anchor_Ladby.png (Sørensen 2001, Figure 1.6, p18)
  - CrossSections_Ladby.png (Sørensen 2001, Figure 6.3, p211)
  - Oars_Gokstad.png (Nicolaysen 1911, Pl. V, Figure 1, p93 ) 
+ - Stay_SmissBildsten.jpg (Historiska museet, Inv. nr. 11521)
 
 # Sources
 
 Sørensen, Anne C. _Ladby: A Danish Ship-Grave from the Viking Age._ Ships and Boats of the North 3. Roskilde: The Viking Ship Museum [u.a.], 2001.
 
 Nicolaysen, N. _Langskibet fra Gokstad ved Sandefjord._ Kristiania: Alb. Cammermeyer, 1882.
+
+Åhlin, Christer. [BILDSTEN|GOTLAND/Go|Inv. nr. 11521|NÄR SN|SMISS I|Vik.t.](https://samlingar.shm.se/media/BC990396-D268-43E7-90CB-D1D7E72A5BAA), 1996. Historiska museet, CC BY 4.0
