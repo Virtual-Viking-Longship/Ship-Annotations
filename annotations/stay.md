@@ -2,7 +2,7 @@
 
 _**stag** n., pl. stög_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o74925)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=78815)]  
 
-A long wooden pole with a blade (ON _blað_) at one end and a handle (ON _hlumr_) at the other, pivoted in pairs on the side of a ship to propel the vessel through water.    
+A rope connecting and supporting the top of the mast to the forestem of the ship. The stays support a mast's weight forward and aft, while the shrouds support its weight from side to side. 
 
 <div align="center">
   
@@ -11,8 +11,7 @@ A long wooden pole with a blade (ON _blað_) at one end and a handle (ON _hlumr_
 
 </div>
 
-  Oars were critical for moving and steering Viking ships, especially in unfavorable wind conditions, on rivers, and in close quarters naval combat. It is known that oars were painted and carved, adding character to indivdual oars (Jesch, 154).  The largest Viking ships could have more than 30 oars per side (Crumlin-Pedersen, 92).   
-
+  The stay was critical for supporting the yard to the mast-head and forcing the sail to 'stay' up during high winds. (Jesch, 165). They were fixed around the top of the mast, and close under the place where the ropes met, a hole was made which the hoisting rope for the yard was then passed through (Nicolaysen, 20).  
 ---
 
   Jesch, Judith. _Ships and Men in the Late Viking Age: The Vocabulary of Runic Inscriptions and Skaldic Verse._ NED-New edition. Woodbridge, Suffolk, UK ; Rochester, NY: 
