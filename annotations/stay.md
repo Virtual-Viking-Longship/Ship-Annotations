@@ -2,7 +2,7 @@
 
 _**stag** n., pl. stög_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o74925)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=78815)]  
 
-A rope connecting and supporting the top of the mast to the forestem of the ship. The stays support a mast's weight forward and aft, while the shrouds support its weight from side to side. 
+A strong rope supporting the mast by connecting the top of the mast to a stem of the hull. The stays support the  mast forward and aft, while the shrouds support it from side to side. 
 
 <div align="center">
   
