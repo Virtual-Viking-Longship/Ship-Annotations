@@ -7,7 +7,7 @@ A strong rope supporting the mast by connecting the top of the mast to a stem of
 <div align="center">
   
   ![Stays depicted on the Picture Stone from Smiss, Gotland](../images/Stay_SmissBildsten.jpg)  
-  Example of the stay holding the mast up on a ship. 
+  Carving of stays supporting the mast on a Picture Stone from Smiss, Gotland. 
 
 </div>
 
