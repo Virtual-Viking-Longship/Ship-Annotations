@@ -11,7 +11,7 @@ A strong rope supporting the mast by connecting the top of the mast to a stem of
 
 </div>
 
-  The stay was critical for supporting the yard to the mast-head and forcing the sail to 'stay' up during high winds. (Jesch, 165). They were fixed around the top of the mast, and close under the place where the ropes met, a hole was made which the hoisting rope for the yard was then passed through (Nicolaysen, 20). 
+  Stays were critical components of the standing rigging that kept the mast upright under pressure on the sail during high winds. They were fixed around the top of the mast above the hole for the halyard, and slanted down at a characteristically sharp angle, captured in the phrase "leaning like a stay" found in Skaldic verses (Nicolaysen 20; Jesch 165). 
   
 ---
 
