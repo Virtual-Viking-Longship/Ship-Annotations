@@ -18,6 +18,6 @@ A strong rope supporting the mast by connecting the top of the mast to a stem of
   Jesch, Judith. _Ships and Men in the Late Viking Age: The Vocabulary of Runic Inscriptions and Skaldic Verse._ NED-New edition. Woodbridge, Suffolk, UK ; Rochester, NY: 
 Boydell & Brewer, 2001. https://www.jstor.org/stable/10.7722/j.ctt163tb4f.
 
- Smith , Cathy. Shrouds and Stays. Photograph. Erie, PA, September 8, 2016. Erie, PA. 
+  Åhlin, Christer. [BILDSTEN|GOTLAND/Go|Inv. nr. 11521|NÄR SN|SMISS I|Vik.t.](https://samlingar.shm.se/media/BC990396-D268-43E7-90CB-D1D7E72A5BAA), 1996. Historiska museet, CC BY 4.0 ```
 
  N. Nicolaysen, Langskibet fra Gokstad ved Sandefjord (Kristiania: Alb. Cammermeyer, 1882).
