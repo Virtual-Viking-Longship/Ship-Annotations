@@ -1,9 +1,8 @@
-**_oar_** (English); _åre_ (Danish); _Riemen_ (German)
+**_yard_** (English); _rå_ (Danish); _Rah_ (German)
 
-_**ár** f., pl. árar_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o4167)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=4453)]  
-_**rœði** n., pl. rœði_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o65885)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=69061)]
+_**rá/siglu-rá** f., pl. ráar_ (Old Norse) [citations: [[prose](https://onp.ku.dk/onp/onp.php?o63168)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=66095)]
 
-  A long wooden pole with a blade (ON _blað_) at one end and a handle (ON _hlumr_) at the other, pivoted in pairs on the side of a ship to propel the vessel through water.    
+A horizontal pole of wood on the mast from which a square sail is suspended. 
 
 <div align="center">
   
