@@ -22,6 +22,7 @@
  - Transition_Piece_00_Gokstad.png (Nicolaysen Pl. I, Fig. 4)
  - Transition_Piece_01_Gokstad.png (Nicolaysen Pl. I, Fig. 4)
  - Stay_SmissBildsten.jpg (Historiska museet, Inv. nr. 11521)
+ - Yard_00_Gokstad.png (Nicolaysen Pl. IV, Fig. 12)
  
 # Sources
 Crumlin-Petersen, O. _Viking-Age Ships and Shipbuilding in Hedeby._ 
