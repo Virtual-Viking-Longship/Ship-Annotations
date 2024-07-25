@@ -12,7 +12,7 @@ A horizontal spar of wood hanging perpendicular to the mast from which the upper
 </div>
 
 
-  The yard kept the sail strained during winds, allowing for ships to be moved without rowing. A brace rope was placed at each end of the yard to allow the yard to move to any position the wind required (Nicolaysen, 20). The yard was one of the parts of the ship that was most vulnerable to damage in storms or hard weather. They were typically long, slender and made of fir or pinewood (Jesch, 162)
+  The yard supported and kept the sail strained during winds and was raised and lowered by means of halyards. A brace rope was tied to each end of the yard (or yardarm) to allow the sail to be moved to any position the wind required (Nicolaysen, 20). The yard was one of the parts of the ship that was most vulnerable to damage in storms or hard weather. They were typically long, slender and made of fir or pinewood (Jesch, 162)
   
 ---
 
