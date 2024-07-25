@@ -2,7 +2,7 @@
 
 _**rá/siglu-rá** f., pl. ráar_ (Old Norse) [citations: [[prose](https://onp.ku.dk/onp/onp.php?o63168)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=66095)]
 
-A horizontal beam of wood on the mast from which the upper edge of the square sail is supported. 
+A horizontal spar of wood hanging perpendicular to the mast from which the upper edge of the square sail is suspended. 
 
 <div align="center">
   
