@@ -8,13 +8,13 @@ _**vöndr** m., pl. vendr_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp
 
 <div align="center">
   
-  ![oar from Gokstad ship](../images/Oar_Gokstad.png)  
-  Oar from the Gokstad ship (Nicolaysen Pl. V, Fig. 1)
+  ![Mast from Oseberg ship](../images/Mast_oseberg.png)  
+  Mast from the Oseberg ship (Brøgger Pg. 286, Fig. 96)
 
 </div>
-
- The rectangular viking sail was raised onto the mast and supported along its upper edge by a yard, this was used to replace or augment the effort of the rowers. The largest Viking ships could have a mast more than 70-feet long. Masts were also said to bend during heavy storms and wind due to the height (Jesch, 160). 
+  The rectangular viking sail was raised onto the mast and supported along its upper edge by a yard, this was used to replace or augment the effort of the rowers. The largest Viking ships could have a mast more than 70-feet long. Masts were also said to bend during heavy storms and wind due to the height (Jesch, 160). 
 ---
 
   Jesch, Judith. _Ships and Men in the Late Viking Age: The Vocabulary of Runic Inscriptions and Skaldic Verse._ NED-New edition. Woodbridge, Suffolk, UK ; Rochester, NY: 
+  Brøgger, Anton W., and Arne Emil Christensen. Osebergfundet. Kristiania: Univ. Oldsaksamling, 1917. 
 
