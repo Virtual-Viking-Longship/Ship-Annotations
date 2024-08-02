@@ -1,21 +1,23 @@
 **_halyard_** (English); _reeling_ (Danish); _Fall_ (German)
 
-_**dragreip** n. (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o14994)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=14283)]  
+_**dragreip** n._ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o14994)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=14283)]  
 
-  A long wooden pole with a blade (ON _blað_) at one end and a handle (ON _hlumr_) at the other, pivoted in pairs on the side of a ship to propel the vessel through water.    
+  A rope that is used to raise and lower sails, flags, ladders and yards on the ship. 
 
 <div align="center">
   
-  ![oar from Gokstad ship](../images/Oar_Gokstad.png)  
-  Oar from the Gokstad ship (Nicolaysen Pl. V, Fig. 1)
+  ![Ropework from Oseberg ship](../images/Ropework_Oseberg.png)  
+  Ropework from the Oseberg ship (Brøgger Pg 307, Fig. 107)
 
 </div>
 
-  Oars were critical for moving and steering Viking ships, especially in unfavorable wind conditions, on rivers, and in close quarters naval combat. It is known that oars were painted and carved, adding character to indivdual oars (Jesch, 154).  The largest Viking ships could have more than 30 oars per side (Crumlin-Pedersen, 92).   
+  The halyard was tied around the yard and went from there through the top of the mast and then down to the halyard tackle (Jesch 161). The sail unfolds as the yard moves up to the halyard hole in the mast top.
 
 ---
 
   Jesch, Judith. _Ships and Men in the Late Viking Age: The Vocabulary of Runic Inscriptions and Skaldic Verse._ NED-New edition. Woodbridge, Suffolk, UK ; Rochester, NY: 
 Boydell & Brewer, 2001. https://www.jstor.org/stable/10.7722/j.ctt163tb4f.
 
-  Crumlin-Pedersen, Ole. 1996. _Viking-Age Ships and Shipbuilding in Hedeby._ Illustrated edition. Roskilde: Viking Ship Museum.
+  Nielsen, Søren. “‘making Sail.’” “Making sail.” Accessed August 2, 2024. https://www.vikingeskibsmuseet.dk/en/news/making-sail. 
+
+  Brøgger, Anton W., and Arne Emil Christensen. Osebergfundet. Kristiania: Univ. Oldsaksamling, 1917. 
