@@ -2,12 +2,12 @@
 
 _**rif** n., (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o64925)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=68028)]  
 
-  A long wooden pole with a blade (ON _blað_) at one end and a handle (ON _hlumr_) at the other, pivoted in pairs on the side of a ship to propel the vessel through water.    
+  A reef allows someone to adjust the sails (sigla) area depending on wind conditions, reefing is done by rolling apart of the sail inward.   
 
 <div align="center">
   
-  ![oar from Gokstad ship](../images/Oar_Gokstad.png)  
-  Oar from the Gokstad ship (Nicolaysen Pl. V, Fig. 1)
+  ![reef on a sail](https://www.jstor.org/stable/44508681?searchText=to+reef+a+sail+viking+ship&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dto%2Breef%2Ba%2Bsail%2Bviking%2Bship%26so%3Drel&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&refreqid=fastly-default%3Ac5af6740c2b5c1b186e03e800b7e6b61&seq=3)  
+  Reef on a Skuldev Sail (Bischoff, Vibeke. Fig. 2)
 
 </div>
 
@@ -15,7 +15,6 @@ _**rif** n., (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o6492
 
 ---
 
-  Jesch, Judith. _Ships and Men in the Late Viking Age: The Vocabulary of Runic Inscriptions and Skaldic Verse._ NED-New edition. Woodbridge, Suffolk, UK ; Rochester, NY: 
-Boydell & Brewer, 2001. https://www.jstor.org/stable/10.7722/j.ctt163tb4f.
+  Bischoff, Vibeke. “Viking-Age Sails: Form and Proportion.” Journal of Maritime Archaeology 12, no. 1 (2017): 1–24. http://www.jstor.org/stable/44508681.
 
   Crumlin-Pedersen, Ole. 1996. _Viking-Age Ships and Shipbuilding in Hedeby._ Illustrated edition. Roskilde: Viking Ship Museum.
