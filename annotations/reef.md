@@ -11,10 +11,13 @@ _**rif** n., (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o6492
 
 </div>
 
-  Oars were critical for moving and steering Viking ships, especially in unfavorable wind conditions, on rivers, and in close quarters naval combat. It is known that oars were painted and carved, adding character to indivdual oars (Jesch, 154).  The largest Viking ships could have more than 30 oars per side (Crumlin-Pedersen, 92).   
+  In connection with hard winds the sail is reduced in size to ensure that the ship does not heel over. Reefing can be done in advance at the top of the sail. If reefing is done while sailing the sail is reefed from the bottom of the sail (Gersbøll). The points were placed diagonally so
+when reefed that part of the sail nearest to the sea was narrower than the upper part (Lotus Magazine).     
 
 ---
 
   Bischoff, Vibeke. “Viking-Age Sails: Form and Proportion.” Journal of Maritime Archaeology 12, no. 1 (2017): 1–24. http://www.jstor.org/stable/44508681.
 
-  Crumlin-Pedersen, Ole. 1996. _Viking-Age Ships and Shipbuilding in Hedeby._ Illustrated edition. Roskilde: Viking Ship Museum.
+  “The Ships That Sail.” The Lotus Magazine 5, no. 8 (1914): 491–504. 
+
+  Gersbøll, Poul. 2007. _Reefing._ The Voyage of 2007. - Vikingeskibs Museet.
