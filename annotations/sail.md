@@ -2,20 +2,19 @@
 
 _**segl** n._ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o67610)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=70952)]  
 
-  A long wooden pole with a blade (ON _blað_) at one end and a handle (ON _hlumr_) at the other, pivoted in pairs on the side of a ship to propel the vessel through water.    
+  A large typically square sail (segl) made out of cloth using wool materials. The sail (segl) allows the viking ship to be propelled by the wind, helping out the oars (árar).    
 
 <div align="center">
   
-  ![oar from Gokstad ship](../images/Oar_Gokstad.png)  
-  Oar from the Gokstad ship (Nicolaysen Pl. V, Fig. 1)
+  ![sail on Skuldelev](https://www.jstor.org/stable/4298737?searchText=viking+ship+sail&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dviking%2Bship%2Bsail%26so%3Drel&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&refreqid=fastly-default%3A089f13e873c9fdf5255bc79286fa29c1&seq=4)  
+  Sail from the Skuldelev ship (Bruun, Per. Fig. 3a)
 
 </div>
 
-  Oars were critical for moving and steering Viking ships, especially in unfavorable wind conditions, on rivers, and in close quarters naval combat. It is known that oars were painted and carved, adding character to indivdual oars (Jesch, 154).  The largest Viking ships could have more than 30 oars per side (Crumlin-Pedersen, 92).   
+  Sails were not used in early type Viking ships but were developed for long voyages. The Viking ship could not have accomplished what it did in respect to travel over long distances and in raiding operations without sails (Bruun, Per). Sails enable Vikings to rely on stable winds as well as rowing, proving for a less tiring travel (Cooke, Bill).    
 
 ---
 
-  Jesch, Judith. _Ships and Men in the Late Viking Age: The Vocabulary of Runic Inscriptions and Skaldic Verse._ NED-New edition. Woodbridge, Suffolk, UK ; Rochester, NY: 
-Boydell & Brewer, 2001. https://www.jstor.org/stable/10.7722/j.ctt163tb4f.
-
-  Crumlin-Pedersen, Ole. 1996. _Viking-Age Ships and Shipbuilding in Hedeby._ Illustrated edition. Roskilde: Viking Ship Museum.
+  Per Bruun. “The Viking Ship.” Journal of Coastal Research 13, no. 4 (1997): 1282–89.
+  Cooke, Bill, and Carol Christiansen. “What Makes a Viking Sail?” In Northern Archaeological Textiles, edited by Frances Pritchard and John Peter Wild, 70–74. Oxbow Books, 2005.
+  
