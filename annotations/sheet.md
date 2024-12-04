@@ -2,7 +2,7 @@
 
 _**skaut** n., pl. skautreip_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o69999)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=73548)]  
 
-  A long wooden pole with a blade (ON _blað_) at one end and a handle (ON _hlumr_) at the other, pivoted in pairs on the side of a ship to propel the vessel through water.    
+  A type of rope that controls the angle of the sail. The sheet (skat) is attached at the bottom corners of the sail.
 
 <div align="center">
   
@@ -11,11 +11,10 @@ _**skaut** n., pl. skautreip_ (Old Norse) [citations: [prose](https://onp.ku.dk/
 
 </div>
 
-  Oars were critical for moving and steering Viking ships, especially in unfavorable wind conditions, on rivers, and in close quarters naval combat. It is known that oars were painted and carved, adding character to indivdual oars (Jesch, 154).  The largest Viking ships could have more than 30 oars per side (Crumlin-Pedersen, 92).   
+  The sheet on the sail was critical for controling the bottom area of the sail allowing to steer the ship.
 
 ---
 
-  Jesch, Judith. _Ships and Men in the Late Viking Age: The Vocabulary of Runic Inscriptions and Skaldic Verse._ NED-New edition. Woodbridge, Suffolk, UK ; Rochester, NY: 
-Boydell & Brewer, 2001. https://www.jstor.org/stable/10.7722/j.ctt163tb4f.
+  Bischoff, Vibeke. “Viking-Age Sails: Form and Proportion.” Journal of Maritime Archaeology 12, no. 1 (2017): 1–24. http://www.jstor.org/stable/44508681.
 
   Crumlin-Pedersen, Ole. 1996. _Viking-Age Ships and Shipbuilding in Hedeby._ Illustrated edition. Roskilde: Viking Ship Museum.
