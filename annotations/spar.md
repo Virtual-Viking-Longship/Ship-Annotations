@@ -3,7 +3,7 @@
 
 _**áss** m., pl. ásar_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o4934https://onp.ku.dk/onp/onp.php?o4934)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=5136)]  
 
-  Also called a Bietass, a spar is a long wooden pole connected to the sail (_segl_), used to angle the sail into the wind creating a technique called tacking.    
+  Also called a Bietiass, a spar is a long wooden pole connected to the sail (_segl_), used to angle the sail into the wind creating a technique called tacking.    
 
 <div align="center">
   
@@ -12,7 +12,7 @@ _**áss** m., pl. ásar_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/o
 
 </div>
 
-  Oars were critical for moving and steering Viking ships, especially in unfavorable wind conditions, on rivers, and in close quarters naval combat. It is known that oars were painted and carved, adding character to indivdual oars (Jesch, 154).  The largest Viking ships could have more than 30 oars per side (Crumlin-Pedersen, 92).   
+  Use of the beitiass reduces strain on the side of a ship, by spreading the pressure from the sail over to the opposite side, where the forces can be spread over several frames (Bishcoff, Vibeke).     
 
 ---
 
