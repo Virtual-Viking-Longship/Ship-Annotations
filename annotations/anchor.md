@@ -6,12 +6,11 @@ An object designed to prevent or slow the drift of a ship, by gripping the solid
 
 <div align="center">
   
-  ![oar from Gokstad ship](../images/Nicolaysen_Oars.png)  
-  Oar from the Gokstad ship (Nicolaysen Pl. V, Fig. 1)
+  ![anchor from Ladby ship](../images/Anchor_Ladby.png)  
+  Anchor and Anchor Chain from Ladby ship (Nicolaysen Pl. V, Fig. 1)
 
 </div>
-
-Oars were critical for moving and steering Viking ships, especially in unfavorable wind conditions, on rivers, and in close quarters naval combat. It is known that oars were painted and carved, adding character to indivdual oars (Jesch, 154).  The largest Viking ships could have more than 30 oars per side (Crumlin-Pedersen, 92).   
+Anchors were critical for controlling and docking Viking ships, especially in storms or raids. (Jesch, 166).
 
 ---
 
