@@ -6,8 +6,8 @@ _**dragreip** n._ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?
 
 <div align="center">
   
-  ![Ropework from Oseberg ship](../images/Ropework_Oseberg.png)  
-  Ropework from the Oseberg ship (Brøgger Pg 307, Fig. 107)
+  ![Halyard from replica Oseberg ship](../images/Halyard_SagaOseberg.jpg)  
+  Halyard (highlighted red) on the replica Saga Oseberg ship (Wolfmann, CC BY-SA 4.0, via Wikimedia Commons)
 
 </div>
 
@@ -20,4 +20,4 @@ Boydell & Brewer, 2001. https://www.jstor.org/stable/10.7722/j.ctt163tb4f.
 
   Nielsen, Søren. “‘making Sail.’” “Making sail.” Accessed August 2, 2024. https://www.vikingeskibsmuseet.dk/en/news/making-sail. 
 
-  Brøgger, Anton W., and Arne Emil Christensen. Osebergfundet. Kristiania: Univ. Oldsaksamling, 1917. 
+  Wolfmann, _Saga Oseberg viking ship replica 2012 Tønsberg Norway Byfjorden Harbour havn Kaldnes bro footbridge Brygga pier Fore Bow stempost Framstavn etc 2019-08-26 blurred faces 5185.jpg_, CC BY-SA 4.0, via Wikimedia Commons. 
