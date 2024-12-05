@@ -7,7 +7,7 @@ _**áss** m., pl. ásar_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/o
 
 <div align="center">
   
-  ![Use of Spar as Displayed from Gotland Picture Stone]([(http://viking.archeurope.com/@images/Sculpture/Hunninge%20at%20Klinte.jpg))  
+  ![Use of Spar as Displayed from Gotland Picture Stone](../images/Picture_Stone_Hunninge_at_Klinte.png)
   Gotland Picture Stone (The Picture Stone from Hunninge at Klinte, Viking Archaeology)
 
 </div>
