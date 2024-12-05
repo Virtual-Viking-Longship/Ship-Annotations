@@ -21,6 +21,7 @@
  - Strakes_01_Gokstad.png (Nicolaysen Pl. II, Fig. 7)
  - Transition_Piece_00_Gokstad.png (Nicolaysen Pl. I, Fig. 4)
  - Transition_Piece_01_Gokstad.png (Nicolaysen Pl. I, Fig. 4)
+ - Yard_Gokstad.png (Nicolaysen Pl. IV, Fig. 12)
 
 # Sources
 Crumlin-Petersen, O. _Viking-Age Ships and Shipbuilding in Hedeby._ 
