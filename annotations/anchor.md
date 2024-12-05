@@ -2,7 +2,7 @@
 
 _**akkeri** n., pl. akkerum_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o1281)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=2907)]  
 
-An object designed to prevent or slow the drift of a ship, by gripping the solid seabed under the body of water. 
+An object designed to prevent or slow the drift of a ship, by gripping the solid seabed under the body of water.  
 
 <div align="center">
   
