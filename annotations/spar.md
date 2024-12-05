@@ -13,7 +13,7 @@ _**áss** m., pl. ásar_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/o
 
 </div>
 
-  Use of the spar reduces strain on the side of a ship, by spreading the pressure from the sail over to the opposite side, where the forces can be spread over several frames (Bishcoff, Vibeke). 2). The use of beitiass is also known from iconographie sources as on the Gotland picture stone from Klinte Hunninge and from ethnographic boats from northwestern Iceland (Imer 2004, 58; Andersen and Andersen
+  Use of the spar reduces strain on the side of a ship, by spreading the pressure from the sail over to the opposite side, where the forces can be spread over several frames (Bishcoff 2017, 2). The use of the beitiáss is also known from iconographic sources as on the Gotland picture stone from Klinte Hunninge and from ethnographic boats from northwestern Iceland (Imer 2004, 58; Andersen and Andersen
 1989, 192-19)
 
 ---
