@@ -8,6 +8,7 @@ _**áss** m., pl. ásar_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/o
 <div align="center">
   
 <img width="470" alt="Screenshot 2024-12-04 at 8 53 06 pm" src="https://github.com/user-attachments/assets/949c9959-9fc1-4166-88b5-47775688de48">
+  
   Gotland Picture Stone (The Picture Stone from Hunninge at Klinte, Viking Archaeology)
 
 </div>
