@@ -1,6 +1,9 @@
 **_tack_** (English); _Wende_ (German)
 
 _**hals** m., pl. halsar_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o30985)/[poetry](https://onp.ku.dk/onp/onp.php?o30985)]  
+
+kala
+    II. naut., of a sail, to lose the wind; seglið (acc.) kelr, whence kalreip, q. v.
  
   A long wooden pole with a blade (ON _blað_) at one end and a handle (ON _hlumr_) at the other, pivoted in pairs on the side of a ship to propel the vessel through water.    
 
