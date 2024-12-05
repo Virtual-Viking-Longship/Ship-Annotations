@@ -15,13 +15,14 @@
  - Keel_Gokstad.png (Nicolaysen Pl. I, Fig. 4)
  - Kerling_00_Gokstad.png (Nicolaysen Pl. II, Fig. 2)
  - Ribs_00_Gokstad.png (Nicolaysen Pl. II, Fig. 2)
+ - Stay_SmissBildsten.jpg (Historiska museet, Inv. nr. 11521)
  - Stem_00_Gokstad.png (Nicolaysen Pl. I, Fig. 1)
  - Stem_01_Gokstad.png (Nicolaysen Pl. I, Fig. 1)
  - Strakes_00_Gokstad.png (Nicolaysen Pl. III, Fig. 4)
  - Strakes_01_Gokstad.png (Nicolaysen Pl. II, Fig. 7)
  - Transition_Piece_00_Gokstad.png (Nicolaysen Pl. I, Fig. 4)
  - Transition_Piece_01_Gokstad.png (Nicolaysen Pl. I, Fig. 4)
- - Stay_SmissBildsten.jpg (Historiska museet, Inv. nr. 11521)
+ - Yard_Gokstad.png (Nicolaysen Pl. IV, Fig. 12)
  
 # Sources
 Crumlin-Petersen, O. _Viking-Age Ships and Shipbuilding in Hedeby._ 
