@@ -21,3 +21,4 @@ _**áss** m., pl. ásar_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/o
   Hale, John R. “The Viking Longship.” Scientific American 278, no. 2 (1998): 56–63.
  
   
+<img width="470" alt="Screenshot 2024-12-04 at 8 53 06 pm" src="https://github.com/user-attachments/assets/949c9959-9fc1-4166-88b5-47775688de48">
