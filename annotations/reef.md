@@ -6,7 +6,7 @@ _**rif** n., (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o6492
 
 <div align="center">
   
-  ![reef on a sail](https://www.jstor.org/stable/44508681?searchText=to+reef+a+sail+viking+ship&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dto%2Breef%2Ba%2Bsail%2Bviking%2Bship%26so%3Drel&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&refreqid=fastly-default%3Ac5af6740c2b5c1b186e03e800b7e6b61&seq=3)  
+ <img width="645" alt="Screenshot 2024-12-02 at 3 51 47 pm" src="https://github.com/user-attachments/assets/cab236fc-1835-4499-bfd7-dfd2c82cf58a">
   Reef on a Skuldev Sail (Bischoff, Vibeke. Fig. 2)
 
 </div>
