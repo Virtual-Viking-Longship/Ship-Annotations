@@ -6,7 +6,7 @@ _**segl** n._ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o676
 
 <div align="center">
   
-  ![sail on Skuldelev](![-OsebergShip:model-c825](https://github.com/user-attachments/assets/0b893f16-5776-4bf3-8847-896fd1d79ddf))  
+![-OsebergShip:model-c825](https://github.com/user-attachments/assets/0b893f16-5776-4bf3-8847-896fd1d79ddf  
   Model of Oseberg Ship Sail (Vikingeskibshallen)
 
 </div>
