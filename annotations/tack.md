@@ -1,8 +1,8 @@
 **_tack_** (English); _Wende_ (German)
 
 _**hals** m., pl. halsar_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o30985)/[poetry](https://onp.ku.dk/onp/onp.php?o30985)]  
- 
-  A long wooden pole with a blade (ON _blað_) at one end and a handle (ON _hlumr_) at the other, pivoted in pairs on the side of a ship to propel the vessel through water.    
+
+  The lower forward corners of a sail.   
 
 <div align="center">
   
@@ -19,3 +19,7 @@ _**hals** m., pl. halsar_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/
 Boydell & Brewer, 2001. https://www.jstor.org/stable/10.7722/j.ctt163tb4f.
 
   Crumlin-Pedersen, Ole. 1996. _Viking-Age Ships and Shipbuilding in Hedeby._ Illustrated edition. Roskilde: Viking Ship Museum.
+
+  David Renouf, “Thames Sailing Barges - Glossary,” October 23, 2016, https://web.archive.org/web/20161023140442/http://www.thamesbarge.org.uk/barges/bargeglossary.html.
+
+
