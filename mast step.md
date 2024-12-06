@@ -11,7 +11,7 @@ _**stallr** m., pl. stallar_ (Old Norse) [citations: [prose](https://onp.ku.dk/o
 
 </div>
 
-  Oars were critical for moving and steering Viking ships, especially in unfavorable wind conditions, on rivers, and in close quarters naval combat. It is known that oars were painted and carved, adding character to indivdual oars (Jesch, 154).  The largest Viking ships could have more than 30 oars per side (Crumlin-Pedersen, 92).   
+  Mast Stepping also has been known to have ceremonial motivation where coins would be placed below the mast after it was stepped so that if the crew died at sea they would be able to cross into the afterlife. 
 
 ---
 
