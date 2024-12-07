@@ -3,6 +3,10 @@
 _**hals** m., pl. halsar_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o30985)/[poetry](https://onp.ku.dk/onp/onp.php?o30985)]  
 
   The lower forward corners of a sail.   
+=======
+  The lower forward corner of a sail.   
+>>>>>>> Stashed changes
+=======
 
 <div align="center">
   
@@ -22,4 +26,12 @@ Boydell & Brewer, 2001. https://www.jstor.org/stable/10.7722/j.ctt163tb4f.
 
   David Renouf, “Thames Sailing Barges - Glossary,” October 23, 2016, https://web.archive.org/web/20161023140442/http://www.thamesbarge.org.uk/barges/bargeglossary.html.
 
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 
+=======
+  OED: tack, n.1, II., 5.a.
+>>>>>>> Stashed changes
+=======
+  OED: tack, n.1, II., 5.a.
+>>>>>>> Stashed changes
