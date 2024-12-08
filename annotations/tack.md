@@ -2,36 +2,20 @@
 
 _**hals** m., pl. halsar_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o30985)/[poetry](https://onp.ku.dk/onp/onp.php?o30985)]  
 
-  The lower forward corners of a sail.   
-=======
-  The lower forward corner of a sail.   
->>>>>>> Stashed changes
-=======
+  The lowest corner of the front of the sail which is secured to the hull when changing direction (tacking) or when the wind is coming from behind the ship at a significant angle.
 
 <div align="center">
   
-  ![oar from Gokstad ship](../images/Oar_Gokstad.png)  
-  Oar from the Gokstad ship (Nicolaysen Pl. V, Fig. 1)
-
+  ![tack from Skuldelev 1](../images/Tack_Skuldelev1.png)  
+  Tack from the Skuldelev 1 Ship (Bischoff 2017, p. 3) 
+  
 </div>
-
-  Oars were critical for moving and steering Viking ships, especially in unfavorable wind conditions, on rivers, and in close quarters naval combat. It is known that oars were painted and carved, adding character to indivdual oars (Jesch, 154).  The largest Viking ships could have more than 30 oars per side (Crumlin-Pedersen, 92).   
+  
+  The tack was an important part of the Viking sail to which ropes were attached to manuever the ship and control the sail in harsh wind conditions. It is known that the tack was often fastened to holes on the side of the hull either by clamps or belaying pins (Bischoff 8).   
 
 ---
-
-  Jesch, Judith. _Ships and Men in the Late Viking Age: The Vocabulary of Runic Inscriptions and Skaldic Verse._ NED-New edition. Woodbridge, Suffolk, UK ; Rochester, NY: 
-Boydell & Brewer, 2001. https://www.jstor.org/stable/10.7722/j.ctt163tb4f.
-
-  Crumlin-Pedersen, Ole. 1996. _Viking-Age Ships and Shipbuilding in Hedeby._ Illustrated edition. Roskilde: Viking Ship Museum.
+  Vibeke Bischoff, “Viking-Age Sails: Form and Proportion,” Journal of Maritime Archaeology 12, no. 1 (2017): 1–24, https://doi.org/10.1007/s11457-016-9167-2.
 
   David Renouf, “Thames Sailing Barges - Glossary,” October 23, 2016, https://web.archive.org/web/20161023140442/http://www.thamesbarge.org.uk/barges/bargeglossary.html.
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-
-=======
   OED: tack, n.1, II., 5.a.
->>>>>>> Stashed changes
-=======
-  OED: tack, n.1, II., 5.a.
->>>>>>> Stashed changes
