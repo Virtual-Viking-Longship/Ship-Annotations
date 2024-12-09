@@ -6,8 +6,8 @@ _**hals** m., pl. halsar_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/
 
 <div align="center">
   
-  ![tack from Skuldelev 1](../images/Tack_Skuldelev1.png)  
-  Tack from the Skuldelev 1 Ship (Bischoff 2017, p. 3) 
+  ![tack from Skuldelev 1](../images/Tack.png)  
+  Tack position on Viking sail
   
 </div>
   
