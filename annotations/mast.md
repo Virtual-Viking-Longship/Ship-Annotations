@@ -1,6 +1,6 @@
 **_mast_** (English); _mast_ (Danish); _Mast_ (German)
 
-_**sigla** f., siglu-tré, n._ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o68379)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=71792)]  
+_**sigla** f., pl. siglur_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o68379)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=71792)]  
 
 _**vöndr** m., pl. vendr_ (Old Norse) [citations: [poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=95470)]
 
