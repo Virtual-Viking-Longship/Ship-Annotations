@@ -1,7 +1,7 @@
 **_mast_** (English); _mast_ (Danish); _Mast_ (German)
 
 _**sigla** f., pl. siglur_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o68379)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=71792)]  
-
+_**siglu-tré** n._ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o68400)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=71813)] 
 _**vöndr** m., pl. vendr_ (Old Norse) [citations: [poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=95470)]
 
   A long wooden pole that rises vertically from the ship and supports the sails.
