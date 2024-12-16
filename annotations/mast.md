@@ -8,8 +8,8 @@ _**vöndr** m., pl. vendr_ (Old Norse) [citations: [poetry](https://lexiconpoeti
 
 <div align="center">
   
-  ![Mast from Oseberg ship](../images/Mast_oseberg.png)  
-  Mast from the Oseberg ship (Brøgger Pg. 286, Fig. 96)
+  ![Mast from Oseberg ship](../images/Mast_Tjängvide.jpg)  
+  Mast from the Tjangvide ship (Berig)
 
 </div>
  
