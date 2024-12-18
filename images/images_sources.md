@@ -24,6 +24,7 @@
  - Strakes_01_Gokstad.png (Nicolaysen Pl. II, Fig. 7)
  - Transition_Piece_00_Gokstad.png (Nicolaysen Pl. I, Fig. 4)
  - Transition_Piece_01_Gokstad.png (Nicolaysen Pl. I, Fig. 4)
+ - Mast_Tjängvide.jpg (Berig, Wikimedia Commons)
  - Yard_Gokstad.png (Nicolaysen Pl. IV, Fig. 12)
  
 # Sources
@@ -34,6 +35,8 @@ Sørensen, Anne C. _Ladby: A Danish Ship-Grave from the Viking Age._ Ships and B
 Nicolaysen, N. _Langskibet fra Gokstad ved Sandefjord._ Kristiania: Alb. Cammermeyer, 1882.
 
 Åhlin, Christer. [BILDSTEN|GOTLAND/Go|Inv. nr. 11521|NÄR SN|SMISS I|Vik.t.](https://samlingar.shm.se/media/BC990396-D268-43E7-90CB-D1D7E72A5BAA), 1996. Historiska museet, CC BY 4.0
+
+Berig, _Picture stone from Tjängvide, Alskog Parish, Gotland, Sweden._, CC BY-SA 4.0, via Wikimedia Commons.
 
 Wolfmann, _Saga Oseberg viking ship replica 2012 Tønsberg Norway Byfjorden Harbour havn Kaldnes bro footbridge Brygga pier Fore Bow stempost Framstavn etc 2019-08-26 blurred faces 5185.jpg_, CC BY-SA 4.0, via Wikimedia Commons.
 
