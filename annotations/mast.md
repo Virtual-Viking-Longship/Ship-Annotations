@@ -10,7 +10,6 @@ _**vöndr** m., pl. vendr_ (Old Norse) [citations: [poetry](https://lexiconpoeti
   
   ![Mast from Tjängvide](../images/Mast_Tjängvide.jpg)  
   Carving of a mast on a picture stone from Tjängvide, Alskog Parish, Gotland (Berig, CC BY-SA 4.0, via Wikimedia Commons)
-)
 
 </div>
  
@@ -23,4 +22,3 @@ _**vöndr** m., pl. vendr_ (Old Norse) [citations: [poetry](https://lexiconpoeti
   Brøgger, Anton W., and Arne Emil Christensen. Osebergfundet. Kristiania: Univ. Oldsaksamling, 1917. 
 
   Berig, _Picture stone from Tjängvide, Alskog Parish, Gotland, Sweden._, CC BY-SA 4.0, via Wikimedia Commons.
-
