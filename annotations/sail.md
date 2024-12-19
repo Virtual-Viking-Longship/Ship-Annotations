@@ -10,6 +10,7 @@ _**segl** n._ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o676
   Model of Oseberg Ship Sail (Vikingeskibshallen)
 
 ![Faroe Stamp Sheet - Viking Ship Sail](../images/Faroe_Stamp_Sail.png)
+  
   Viking Ship Sail Depicted in Art (Martin Mörck)
 
 </div>
