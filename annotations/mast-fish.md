@@ -2,7 +2,7 @@
 
 _**klofi** m., pl. klofar_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o44117)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=45381)]
 
-  A piece of wood that was placed on the keelson (ON _kerling_) to keep the mast upright and absorb stress while the ship was under sail. The mast fish was typically ten feet long and faced aft to help while the mast (ON _siglutré_, _sigla_) was raised (National Geographic).
+  A large mass of wood that was placed on the keelson (ON _kerling_) to keep the mast upright and absorb stress while the ship was under sail. 
 
 <div align="center">
   
