@@ -6,9 +6,9 @@ _**rif**_ n., (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o649
 
 <div align="center">
   
- <img width="645" alt="Screenshot 2024-12-02 at 3 51 47 pm" src="https://github.com/user-attachments/assets/cab236fc-1835-4499-bfd7-dfd2c82cf58a">
+ ![Reef](../images/Reef.png) 
 
-Reef on a Skuldev Sail (Bischoff, Vibeke. Fig. 2)
+Reef on a Recreated Viking Ship (Nøtterøy, Norway)
 
 </div>
 
