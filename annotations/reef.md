@@ -18,5 +18,4 @@ Reef on a Skuldev Sail (Bischoff, Vibeke. Fig. 2)
 
   Bischoff, Vibeke. “Viking-Age Sails: Form and Proportion.” Journal of Maritime Archaeology 12, no. 1 (2017): 1–24. http://www.jstor.org/stable/44508681.
 
-
   Gersbøll, Poul. 2007. _Reefing._ The Voyage of 2007. - Vikingeskibs Museet.
