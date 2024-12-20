@@ -8,7 +8,7 @@ _**rif**_ n., (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o649
   
  ![Reef](../images/Reef.png) 
 
-Reef on a Recreated Viking Ship (Nøtterøy, Norway)
+Reef-points visible on the sail of a recreated Viking Ship (ruud.trygve@gmail.co…, CC BY 3.0, via Wikimedia Commons)
 
 </div>
 
@@ -19,3 +19,5 @@ Reef on a Recreated Viking Ship (Nøtterøy, Norway)
   Bischoff, Vibeke. “Viking-Age Sails: Form and Proportion.” Journal of Maritime Archaeology 12, no. 1 (2017): 1–24. http://www.jstor.org/stable/44508681.
 
   Gersbøll, Poul and Tajs Køngerskov. _Reefing_ The Voyage of 2007. - Vikingeskibs Museet (2007).
+
+  ruud.trygve@gmail.co…, _Nøtterøy, Norway_, CC BY 3.0, via Wikimedia Commons
