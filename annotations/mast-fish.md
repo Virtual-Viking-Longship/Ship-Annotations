@@ -17,8 +17,4 @@ The mast fish was typically ten feet long and faced aft to help while the mast (
 
   Nicolaysen, N. (1882). Langskibet fra Gokstad ved Sandefjord. Kristiania.
 
-  Paasche, Knut. "The Tune Viking Ship Reconsidered." _International Journal of Nautical Archaeology_ 49, no. 1 (2020): 29-48. https://doi.org/10.1111/1095-9270.12391.
-
-   “The Realm of the Vikings.” _National Geographic._ Accessed December 5, 2024. https://www.nationalgeographic.com/specialprojects/interactive-assets/nggraphics/vikings-gfx/build-2017-02-24_14-15-56/. 
-
-  Unger, Richard W. “The Archaeology of Boats: Ships of the Vikings.” _Archaeology_ 35, no. 3 (1982): 20–27. http://www.jstor.org/stable/41727826.
+   “The Realm of the Vikings.” _National Geographic._ Accessed December 5, 2024. https://www.nationalgeographic.com/specialprojects/interactive-assets/nggraphics/vikings-gfx/build-2017-02-24_14-15-56/.
