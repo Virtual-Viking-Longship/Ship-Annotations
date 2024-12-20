@@ -6,8 +6,8 @@ An object designed to prevent or slow the drift of a ship, by gripping the solid
 
 <div align="center">
   
-  ![anchor from Ladby ship](../images/Anchor_Ladby.png)  
-  Anchor and Anchor Chain from Ladby ship (Nicolaysen Pl. V, Fig. 1)
+  ![anchor from Prigny Chapel](../images/Anchor_Prigny.png)  
+  Viking anchor from the 9th century exhibited in Chapelle de Prigny in France.
 
 </div>
 Anchors were critical for controlling and docking Viking ships, especially in storms or during raids. Anchors were used when camping aboard a ship at night or when preparing for stealthy attacks (Jesch 166). It is believed that Viking Age anchors were made of iron or a composite of wood, stone, and rope. The former would have been expensive and used on large ships while the latter would be more affordable and used on small ships (Crumlin-Pederson, 146). 
