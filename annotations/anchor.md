@@ -14,7 +14,7 @@ Anchors were critical for controlling and docking Viking ships, especially in st
 
 ---
 
-  Jesch, Judith. _Ships and Men in the Late Viking Age: The Vocabulary of Runic Inscriptions and Skaldic Verse._ NED-New edition. Woodbridge, Suffolk, UK ; Rochester, NY: 
+  Jesch, Judith. _Ships and Men in the Late Viking Age: The Vocabulary of Runic Inscriptions and Skaldic Verse._ (Boydell & Brewer, 2001). https://www.jstor.org/stable/10.7722/j.ctt163tb4f
 Boydell & Brewer, 2001. https://www.jstor.org/stable/10.7722/j.ctt163tb4f.
 
 
