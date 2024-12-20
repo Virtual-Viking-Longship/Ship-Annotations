@@ -1,6 +1,6 @@
 **_reef_** (English); _ribben_ (Danish); _Rippe_ (German)
 
-_**rif** n., (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o64925)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=68028)]  
+_**rif**_ n., (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o64925)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=68028)]  
 
   A reef allows someone to adjust the sails (sigla) area depending on wind conditions, reefing is done by rolling apart of the sail inward.   
 
