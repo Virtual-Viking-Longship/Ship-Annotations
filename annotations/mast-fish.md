@@ -11,7 +11,7 @@ _**klofi** m., pl. klofar_ (Old Norse - probable) [citations: [prose](https://on
 
 </div>
  
-This feature is named for its fish-like shape, though it is sometimes also called the mast support or mast-partner (Nicolaysen).
+The mast fish was typically ten feet long and faced aft to help while the mast (ON _siglutré_, _sigla_) was raised (National Geographic). This feature is named for its fish-like shape, though it is sometimes also called the mast support or mast-partner (Nicolaysen). 
 
 ---
 
