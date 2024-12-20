@@ -2,7 +2,7 @@
 
 _**rif**_ n., (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o64925)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=68028)]  
 
-  A reef allows someone to adjust the sails (sigla) area depending on wind conditions, reefing is done by rolling apart of the sail inward.   
+  Reefs, or reef-points, are lengths of rope sewn to a sail used to adjust the area depending on wind conditions. Reefing the sail is done by rolling a part of the sail inward and tying it to temporarily reduce the area exposed to the wind.   
 
 <div align="center">
   
