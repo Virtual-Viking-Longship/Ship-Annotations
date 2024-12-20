@@ -12,7 +12,7 @@ Reef on a Skuldev Sail (Bischoff, Vibeke. Fig. 2)
 
 </div>
 
-  In connection with hard winds the sail is reduced in size to ensure that the ship does not heel over. Reefing can be done in advance at the top of the sail. If reefing is done while sailing the sail is reefed from the bottom of the sail (Gersbøll). The points were placed diagonally so
+  In connection with hard winds, the sail of a ship can be reefed, or reduced in size, to slow the ship or ensure that it does not heel over. Reefing can be done in advance from the top of the sail. If done while sailing, the sail can more easily be reefed from the loose footed bottom (Gersbøll). 
 when reefed that part of the sail nearest to the sea was narrower than the upper part (Lotus Magazine).     
 
 ---
