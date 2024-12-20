@@ -28,6 +28,7 @@
  - TackingSpar_Hunninge.png (Berig, Wikimedia Commons)
  - Mast_Tjängvide.jpg (Berig, Wikimedia Commons)
  - Yard_Gokstad.png (Nicolaysen Pl. IV, Fig. 12)
+ - Anchor_Prigny.png (Perky, Wikimedia Commons)
  
 # Sources
 Crumlin-Petersen, O. _Viking-Age Ships and Shipbuilding in Hedeby._ 
@@ -43,6 +44,8 @@ ruud.trygve@gmail.co…, _Nøtterøy, Norway_, CC BY 3.0, via Wikimedia Commons
 Berig, _Hunninge picture stone_, CC BY-SA 4.0, via Wikimedia Commons.
 
 Berig, _Picture stone from Tjängvide, Alskog Parish, Gotland, Sweden._, CC BY-SA 4.0, via Wikimedia Commons.
+
+Perky assumed (based on copyright claims), CC BY-SA 3.0, via Wikimedia Commons
 
 Wolfmann, _Saga Oseberg viking ship replica 2012 Tønsberg Norway Byfjorden Harbour havn Kaldnes bro footbridge Brygga pier Fore Bow stempost Framstavn etc 2019-08-26 blurred faces 5185.jpg_, CC BY-SA 4.0, via Wikimedia Commons.
 
