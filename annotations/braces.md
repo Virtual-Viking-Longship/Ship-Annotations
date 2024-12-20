@@ -7,8 +7,8 @@ _**stœðingr** m., pl. stœðingar_ (Old Norse) [citations: [prose](https://onp
 
 <div align="center">
   
-  ![brace from replica Oseberg ship](../images/Brace_OsebergReplica.png)  
-  Brace (indicated by arrow) on the replica Saga Oseberg ship, under sail (Bischoff).
+  ![braces from Gokstad ship line drawing](../images/Braces_GokstadLineArt.png)  
+  Braces (indicated by arrows) on a model of the Gokstad ship.
 
 </div>
 
