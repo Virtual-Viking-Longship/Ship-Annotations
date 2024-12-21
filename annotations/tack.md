@@ -1,6 +1,6 @@
 **_tack_** (English); _Wende_ (German)
 
-_**hals** m., pl. halsar_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o30985)/[poetry](https://onp.ku.dk/onp/onp.php?o30985)]  
+_**hals** m., pl. halsar_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o30985)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=31494)]  
 
   The lowest corner of the front of the sail which is secured to the hull when changing direction (tacking) in order to sail into the wind. On a viking ship, the tack thus changes from one corner of the square sail to the other as the ship tacks back and forth to move upwind.
 
