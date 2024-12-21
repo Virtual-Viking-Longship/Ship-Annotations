@@ -45,7 +45,7 @@ Berig, _Hunninge picture stone_, CC BY-SA 4.0, via Wikimedia Commons.
 
 Berig, _Picture stone from Tjängvide, Alskog Parish, Gotland, Sweden._, CC BY-SA 4.0, via Wikimedia Commons.
 
-Perky assumed (based on copyright claims), CC BY-SA 3.0, via Wikimedia Commons
+Perky assumed (based on copyright claims), _Ancre viking IXe siècle découverte en Loire Atlantique (France) et exposée actuellement dans la chapelle de Prigny_, CC BY-SA 3.0, via Wikimedia Commons
 
 Wolfmann, _Saga Oseberg viking ship replica 2012 Tønsberg Norway Byfjorden Harbour havn Kaldnes bro footbridge Brygga pier Fore Bow stempost Framstavn etc 2019-08-26 blurred faces 5185.jpg_, CC BY-SA 4.0, via Wikimedia Commons.
 
