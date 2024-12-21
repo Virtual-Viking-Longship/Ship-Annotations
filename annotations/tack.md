@@ -1,4 +1,4 @@
-**_tack_** (English); _Wende_ (German)
+**_tack_** (English); _hals_ (Danish); _Wende_ (German)
 
 _**hals** m., pl. halsar_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o30985)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=31494)]  
 
