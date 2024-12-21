@@ -23,6 +23,8 @@
  - Transition_Piece_01_Gokstad.png (Nicolaysen Pl. I, Fig. 4)
  - Stay_SmissBildsten.jpg (Historiska museet, Inv. nr. 11521)
  - Tack_GokstadLineArt.png (VVLP, Longship Model Line Art)
+ - Braces_GokstadLineArt.png (VVLP, Longship Model Line Art)
+
  
 # Sources
 Crumlin-Petersen, O. _Viking-Age Ships and Shipbuilding in Hedeby._ 
