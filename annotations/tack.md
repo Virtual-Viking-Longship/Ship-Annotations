@@ -2,12 +2,12 @@
 
 _**hals** m., pl. halsar_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?o30985)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=31494)]  
 
-  The lowest corner of the front of the sail which is secured to the hull when changing direction (tacking) in order to sail into the wind. On a viking ship, the tack thus changes from one corner of the square sail to the other as the ship tacks back and forth to move upwind.
+  The lowest corner of the front of the sail which is secured to the hull when changing direction (tacking) in order to sail into the wind. On a Viking ship, the tack thus changes from one corner of the square sail to the other as the ship tacks back and forth to move upwind.
 
 <div align="center">
   
-  ![tack from Skuldelev 1](../images/Tack.png)  
-  Tack position on Viking sail
+  ![tack from Gokstad ship line drawing](../images/Tack_GokstadLineArt.png)  
+  Tack position on a model of the Gokstad ship
   
 </div>
   
