@@ -24,6 +24,8 @@
  - Strakes_01_Gokstad.png (Nicolaysen Pl. II, Fig. 7)
  - Transition_Piece_00_Gokstad.png (Nicolaysen Pl. I, Fig. 4)
  - Transition_Piece_01_Gokstad.png (Nicolaysen Pl. I, Fig. 4)
+ - Tack_GokstadLineArt.png (VVLP, Longship Model Line Art)
+ - Braces_GokstadLineArt.png (VVLP, Longship Model Line Art)
  - Reef.png (ruud.trygve@gmail.co…, Wikimedia Commons)
  - TackingSpar_Hunninge.png (Berig, Wikimedia Commons)
  - Mast_Tjängvide.jpg (Berig, Wikimedia Commons)
@@ -38,6 +40,8 @@ Sørensen, Anne C. _Ladby: A Danish Ship-Grave from the Viking Age._ Ships and B
 Nicolaysen, N. _Langskibet fra Gokstad ved Sandefjord._ Kristiania: Alb. Cammermeyer, 1882.
 
 Åhlin, Christer. [BILDSTEN|GOTLAND/Go|Inv. nr. 11521|NÄR SN|SMISS I|Vik.t.](https://samlingar.shm.se/media/BC990396-D268-43E7-90CB-D1D7E72A5BAA), 1996. Historiska museet, CC BY 4.0
+
+Virtual Viking Longship Project, _Longship Model Line Art_, CC BY 4.0, 2024.
 
 ruud.trygve@gmail.co…, _Nøtterøy, Norway_, CC BY 3.0, via Wikimedia Commons
 
