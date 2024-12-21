@@ -11,7 +11,7 @@ _**hals** m., pl. halsar_ (Old Norse) [citations: [prose](https://onp.ku.dk/onp/
   
 </div>
   
-  The tack was an important part of the Viking sail to which ropes were attached to manuever the ship and control the sail in harsh wind conditions. It is known that the tack was often fastened to holes on the side of the hull either by clamps or belaying pins (Bischoff 8).   
+  Both the lower corners of square sails and the lines attached to them are called sheets (ON _skaut_) and used to maneuver the ship and control the sail in variable wind conditions, with one or the other becoming the tack when in the forward position (Renouf; OED). The tack on Viking ships was often fastened to holes on the side of the hull either by clamps or belaying pins, and the location of these holes on the Skuldelev finds has been used to calculate the width of Viking sails (Bischoff 8).   
 
 ---
   Vibeke Bischoff, “Viking-Age Sails: Form and Proportion,” Journal of Maritime Archaeology 12, no. 1 (2017): 1–24, https://doi.org/10.1007/s11457-016-9167-2.
