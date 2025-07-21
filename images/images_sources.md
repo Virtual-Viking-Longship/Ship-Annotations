@@ -24,6 +24,7 @@
  - Strakes_01_Gokstad.png (Nicolaysen Pl. II, Fig. 7)
  - Transition_Piece_00_Gokstad.png (Nicolaysen Pl. I, Fig. 4)
  - Transition_Piece_01_Gokstad.png (Nicolaysen Pl. I, Fig. 4)
+ - Sheet_Sebbe_Als.jpg (Steen Weile)
  - Tack_GokstadLineArt.png (VVLP, Longship Model Line Art)
  - Braces_GokstadLineArt.png (VVLP, Longship Model Line Art)
  - Reef.png (ruud.trygve@gmail.co…, Wikimedia Commons)
@@ -40,6 +41,8 @@ Sørensen, Anne C. _Ladby: A Danish Ship-Grave from the Viking Age._ Ships and B
 Nicolaysen, N. _Langskibet fra Gokstad ved Sandefjord._ Kristiania: Alb. Cammermeyer, 1882.
 
 Åhlin, Christer. [BILDSTEN|GOTLAND/Go|Inv. nr. 11521|NÄR SN|SMISS I|Vik.t.](https://samlingar.shm.se/media/BC990396-D268-43E7-90CB-D1D7E72A5BAA), 1996. Historiska museet, CC BY 4.0
+
+Steen Weile, Notmark, Denmark, Viking ship Sebbe Als of Augustenborg, Denmark under sail. CC BY 3.0, via Wikimedia Commons
 
 Virtual Viking Longship Project, _Longship Model Line Art_, CC BY 4.0, 2024.
 
