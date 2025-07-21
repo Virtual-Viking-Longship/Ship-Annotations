@@ -24,6 +24,7 @@
  - Strakes_01_Gokstad.png (Nicolaysen Pl. II, Fig. 7)
  - Transition_Piece_00_Gokstad.png (Nicolaysen Pl. I, Fig. 4)
  - Transition_Piece_01_Gokstad.png (Nicolaysen Pl. I, Fig. 4)
+ - Sail_Haithabu.jpg (Xocolatl)
  - Sheet_Sebbe_Als.jpg (Steen Weile)
  - Tack_GokstadLineArt.png (VVLP, Longship Model Line Art)
  - Braces_GokstadLineArt.png (VVLP, Longship Model Line Art)
@@ -46,7 +47,7 @@ Steen Weile, Notmark, Denmark, Viking ship Sebbe Als of Augustenborg, Denmark un
 
 Virtual Viking Longship Project, _Longship Model Line Art_, CC BY 4.0, 2024.
 
-ruud.trygve@gmail.co…, _Nøtterøy, Norway_, CC BY 3.0, via Wikimedia Commons
+ruud.trygve@gmail.com, _Nøtterøy, Norway_, CC BY 3.0, via Wikimedia Commons
 
 Berig, _Hunninge picture stone_, CC BY-SA 4.0, via Wikimedia Commons.
 
@@ -57,3 +58,5 @@ Perky assumed (based on copyright claims), _Ancre viking IXe siècle découverte
 Wolfmann, _Saga Oseberg viking ship replica 2012 Tønsberg Norway Byfjorden Harbour havn Kaldnes bro footbridge Brygga pier Fore Bow stempost Framstavn etc 2019-08-26 blurred faces 5185.jpg_, CC BY-SA 4.0, via Wikimedia Commons.
 
 Wolfmann, _Saga Oseberg Details shroud-pins or vantnales to secure the shrouds to the hull, gunwale, oarholes, knees, deck etc Viking ship replica 2012 Tønsberg harbour Norway 2019-08-16 04307.jpg,_ CC BY-SA 4.0, via Wikimedia Commons.
+
+Xocolatl, "Modell des Wikingerlangschiffs in Haithabu", Public domain, via Wikimedia Commons, 2008.
