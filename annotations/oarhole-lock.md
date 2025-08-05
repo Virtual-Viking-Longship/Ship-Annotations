@@ -2,7 +2,7 @@
 
 _unattested_ (Old Norse)
 
-  A small wooden device used to close the oarholes when not in use to prevent the ship taking on water.     
+  A small wooden device used to close the oarholes when not in use to prevent the ship taking on water.  
 
 <div align="center">
   
@@ -11,7 +11,7 @@ _unattested_ (Old Norse)
 
 </div>
 
-  The exact shape and function of oarhole-locks varies between ship finds: those at Hedeby are simple plugs, while the locks from Gokstad pivoted and latched on pins driven into the hull on either side of the hole (Nicolaysen 59). Oarhole-locks may have "belonged" to each rower, as many were personalised with carved decorations (Crumlin-Petersen 126).     
+  The exact shape and function of oarhole-locks varies between ship finds: those at Hedeby are simple plugs, while the locks from Gokstad pivoted and latched on pins driven into the hull on either side of the hole (Nicolaysen 59). Oarhole-locks may have "belonged" to each rower, as many were personalised with carved decorations (Crumlin-Petersen 126).  
 
 ---
 

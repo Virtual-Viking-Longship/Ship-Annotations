@@ -17,7 +17,6 @@ _**stýri** n., pl. stýri_ (Old Norse) [citations: [prose](https://onp.ku.dk/on
 
   Horte, Marianne Juelsgård. “Rudder and Tackle - The Steering Element.” _Vikingeskibs Museet_, 2015. https://www.vikingeskibsmuseet.dk/en/professions/education/all-about-the-viking-ship/the-hull-of-the-ship/rudder-and-tackle.
 
-  Jesch, Judith. _Ships and Men in the Late Viking Age: The Vocabulary of Runic Inscriptions and Skaldic Verse._ NED-New edition. Woodbridge, Suffolk, UK ; Rochester, NY: 
-Boydell & Brewer, 2001. https://www.jstor.org/stable/10.7722/j.ctt163tb4f.
+  Jesch, Judith. _Ships and Men in the Late Viking Age: The Vocabulary of Runic Inscriptions and Skaldic Verse._ NED-New edition. Woodbridge, Suffolk, UK ; Rochester, NY: Boydell & Brewer, 2001. https://www.jstor.org/stable/10.7722/j.ctt163tb4f.
 
   Nicolaysen, N. _Langskibet fra Gokstad ved Sandefjord_. Kristiania: Alb. Cammermeyer, 1882.
