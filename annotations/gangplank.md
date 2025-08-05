@@ -11,7 +11,7 @@ _**bryggja** f., pl. bryggjur_ (Old Norse) [citations: [prose](https://onp.ku.dk
 
 </div>
 
-Gangplanks were vital pieces of equipment in the Viking Age, when ships rarely docked at fixed piers. They could be used to enter, exit and load ships from land, or to board other ships at sea by laying the plank across the gunwales. The Gokstad and Oseberg ship burials both included a _bryggja_ which was hewn from a single piece of pine, recessed on one side so that steps are carved in relief, and fitted with a hole at one end so that it could be fixed to the ship when in use (Nicolaysen, 52; Brøgger et al., 320).
+  Gangplanks were vital pieces of equipment in the Viking Age, when ships rarely docked at fixed piers. They could be used to enter, exit and load ships from land, or to board other ships at sea by laying the plank across the gunwales. The Gokstad and Oseberg ship burials both included a _bryggja_ which was hewn from a single piece of pine, recessed on one side so that steps are carved in relief, and fitted with a hole at one end so that it could be fixed to the ship when in use (Nicolaysen, 52; Brøgger et al., 320).
 
 ---
 

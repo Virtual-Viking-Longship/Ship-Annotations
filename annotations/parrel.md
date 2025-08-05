@@ -2,15 +2,15 @@
 
 _**rakki** m._(Old Norse) [citations: [prose](https://onp.ku.dk/onp/onp.php?c514861)/[poetry](https://lexiconpoeticum.org/m.php?p=lemma&i=66385)]
 
-A curved or semi-circular piece of wood that connects the yard to the mast and allows the sail to slide up and down.
+  A curved or semi-circular piece of wood that connects the yard to the mast and allows the sail to slide up and down.
 
 <div align="center">
   
-  ![Parrel from Oseberg Ship](../images/Parrel_Oseberg.png)   
+  ![Parrel from Oseberg Ship](../images/Parrel_Oseberg.png)  
   Parrel from Oseberg Ship (Brøgger Fig. 121)
 
 </div>
-A wooden parrel is tied to the middle part of the yard around the mast when the sail is in use and untied when the sail is taken down. The parrel found with the Oseberg ship had a triangular hole for separate lashings to the yard at either end, although its proper function was not recognized at the time (Brøgger et al 321; Bischoff 21).  
+  A wooden parrel is tied to the middle part of the yard around the mast when the sail is in use and untied when the sail is taken down. The parrel found with the Oseberg ship had a triangular hole for separate lashings to the yard at either end, although its proper function was not recognized at the time (Brøgger et al 321; Bischoff 21).  
 
 ---  
 
