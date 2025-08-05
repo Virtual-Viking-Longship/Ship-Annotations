@@ -14,10 +14,10 @@
 
 </div>
 
-  The stems are hewn from a single piece of curved oak wood. The stems on this ship are shaped as simple curves with notches hewn into the backside where rivets join the strakes to the stem. Stems on other Viking ships can be more complex and are carved with notched steps, which would receive the strakes. Although more difficult to carve, this type of stem eventually saves construction time as it does not require the strakes to be cut into complex shapes for them to be joined to the stem.
+  Stems were hewn from a single piece of curved oak wood. The stems on this ship are rabbeted, shaped as simple curves with notches hewn into the backside where rivets join the strakes to the stem. Stems on other Viking ships can be more complex and are carved with notched steps to receive the strakes (Sørensen 17). Although more difficult to carve, this type of stem eventually saves construction time as it does not require the strakes to be cut into complex shapes for them to be joined to the stem.
 
 ---
-
+  
   Nicolaysen, N. (1882). _Langskibet fra Gokstad ved Sandefjord._ Kristiania.
 
-  Jesch, Judith. _Ships and Men in the Late Viking Age: The Vocabulary of Runic Inscriptions and Skaldic Verse._ NED-New edition. Woodbridge, Suffolk, UK ; Rochester, NY: Boydell & Brewer, 2001. https://www.jstor.org/stable/10.7722/j.ctt163tb4f.
+  Sørensen, Anne C. _Ladby: A Danish Ship-Grave from the Viking Age._ Ships and Boats of the North 3. Roskilde: The Viking Ship Museum [u.a.], 2001.
