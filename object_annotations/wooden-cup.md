@@ -2,8 +2,9 @@
   
 **Wooden cup with handle**
 
-  ![oar from Gokstad ship](../images/object_images/wooden-cup.jpg)  
- *Holztasse mit Henkel* (SH1979-4.8 Wikinger Museum Haithabu)
+![oar from Gokstad ship](../object_images/wooden-cup.jpg)  
+_Holztasse mit Henkel_  
+(SH1979-4.8 Wikinger Museum Haithabu)
 
 </div>
 
