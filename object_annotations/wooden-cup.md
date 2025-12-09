@@ -8,7 +8,7 @@ _Holztasse mit Henkel_
 
 </div>
 
-A single handle may indicate that the vessel was used one-handed as a scoop, perhaps to scoop a drink (Schietzel, Unearthing Hedeby, 333). Handled or stemmed vessels were used as tableware or ladles (Schietzel, Unearthing Hedeby, 248). The handle is not broken, but purposely shaped to jut out instead of reconnecting with the body in a loop.
+The handle on this cup is not broken, but purposely shaped to jut out instead of reconnecting with the body in a loop. A single handle may indicate that the vessel was used one-handed as a scoop, perhaps to scoop a drink (Schietzel, 333). Handled or stemmed vessels were used as tableware or ladles (Schietzel, 248). 
 
 ---
 
