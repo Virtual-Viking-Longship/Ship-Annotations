@@ -2,7 +2,7 @@
   
 **Wooden cup with handle**
 
-![oar from Gokstad ship](../object_images/wooden-cup.jpg)  
+![wooden cup from Hedeby](../object_images/wooden-cup-Hedeby.jpg)  
 _Holztasse mit Henkel_  
 (SH1979-4.8 Wikinger Museum Haithabu)
 
