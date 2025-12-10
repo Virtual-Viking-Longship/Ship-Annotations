@@ -13,4 +13,4 @@ Scales were an indispensable aspect of trade. Although it’s unlikely that trad
 
 ---
 
-Birgit Maixner, Haithabu - Fernhandelszentrum Zwischen Den Welten. Begleitband Zur Ausstellung Im Wikinger Museum Haithabu, 3rd ed. (Archäologisches Landesmuseum. Schloss Gottorf, 2019).
+Birgit Maixner, _Haithabu - Fernhandelszentrum Zwischen Den Welten. Begleitband Zur Ausstellung Im Wikinger Museum Haithabu_, 3rd ed. (Archäologisches Landesmuseum. Schloss Gottorf, 2019).
