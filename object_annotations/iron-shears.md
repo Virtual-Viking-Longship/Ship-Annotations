@@ -12,4 +12,4 @@ Iron was an essential material for the manufacturing of tools, weapons, and ship
 
 ---
 
-Kurt Schietzel, Unearthing Hedeby: An Archaeological Exploration of the Early Medieval Settlement of Hedeby: Documentation and Chronicle 1963-2013, with Flemming Bau et al. (Wachholtz, 2022).
+Kurt Schietzel, _Unearthing Hedeby: An Archaeological Exploration of the Early Medieval Settlement of Hedeby: Documentation and Chronicle 1963-2013_, with Flemming Bau et al. (Wachholtz, 2022).
