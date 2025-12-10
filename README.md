@@ -1,8 +1,13 @@
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+
 # Ship-Annotations
 
 This repository holds illustrated annotations to accompany the [Virtual Viking Longship Project](https://virtualvikings.sites.carleton.edu). Annotations are written in markdown and are used in VR experiences developed in Unity, leveraging [FancyTextRendering](https://github.com/JimmyCushnie/FancyTextRendering) to render markdown & clickable links with Unity's TextMeshPro library.
 
-## Structure
+You are welcome to use or reference these materials in your projects, but please cite the VVLP project according to [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) criteria. Suggested citation below.
+
+
+## Repository Structure
 
 ### annotations
 This folder contains annotations for all parts of a viking ship, from the keel up through the mast, sails, rigging and oars. 
