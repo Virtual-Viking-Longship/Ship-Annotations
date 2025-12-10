@@ -8,7 +8,7 @@ _Bügelschere_
 
 </div>
 
-Iron was an essential material for the manufacturing of tools, weapons, and ships. Though a larger, similar shape of iron shears was likely used to shear sheep on land, the size of these portable shears suggests that they were used for beard trimming (Schietzel, 365, 284). Shears like this were also used to cut cloth and would have been valuable for sail repair (Schietzel, 366).
+Iron was an essential material for the manufacturing of tools, weapons, and ships. Though a larger, similar shape of iron shears was likely used to shear sheep on land, the size of these portable shears suggests that they were used for beard trimming (Schietzel, 365, 284). Shears like these were also used to cut cloth and would have been valuable for sail repair (Schietzel, 366).
 
 ---
 
