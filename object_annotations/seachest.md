@@ -12,7 +12,7 @@ In 1979, an excavation team uncovered this chest in the mud of Hedeby harbor. Co
 
 ---
 
-Kate Fox, “Convergent Design: The Six-Board Viking Sea Chest,” Mortise & Tenon Magazine, no. 5 (September 2018): 24–32.
+Kate Fox, “Convergent Design: The Six-Board Viking Sea Chest,” _Mortise & Tenon Magazine_, no. 5 (September 2018): 24–32.
 
 Kurt Schietzel, Unearthing Hedeby: An Archaeological Exploration of the Early Medieval Settlement of Hedeby: Documentation and Chronicle 1963-2013, with Flemming Bau et al. (Wachholtz, 2022).
 
