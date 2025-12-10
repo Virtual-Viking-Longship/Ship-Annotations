@@ -2,7 +2,8 @@
   
 **Balance scale and scale pans**
 
-![balance scale from Hedeby](../object_images/balance-scale-Hedeby.jpg)![scale pan from Hedeby](../object_images/scale-pan-Hedeby.jpg)  
+![balance scale from Hedeby](../object_images/balance-scale-Hedeby.jpg =150x)  
+![scale pan from Hedeby](../object_images/scale-pan-Hedeby.jpg =150x)  
 _Balkenwaage und Waagschale_  
 (SH1966-3.3701 Wikinger Museum Haithabu, SH1979-4.4611 Wikinger Museum Haithabu)
 
