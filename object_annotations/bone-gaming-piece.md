@@ -2,7 +2,7 @@
 
 **Bone gaming piece**
 
-
+![bonegamingpiece](../object_images/Bone_Gaming_Piece.png) 
 _Spielstein aus Geweih_
 (SH1979-4.4813 Wikinger Museum Haithabu)
 
