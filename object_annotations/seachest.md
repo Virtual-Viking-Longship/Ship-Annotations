@@ -16,4 +16,4 @@ Kate Fox, “Convergent Design: The Six-Board Viking Sea Chest,” _Mortise & Te
 
 Kurt Schietzel, _Unearthing Hedeby: An Archaeological Exploration of the Early Medieval Settlement of Hedeby: Documentation and Chronicle 1963-2013_, with Flemming Bau et al. (Wachholtz, 2022).
 
-Ole Crumlin-Pedersen, Viking-Age Ships and Shipbuilding in Hedeby, Illustrated edition (Viking Ship Museum, 1996).
+Ole Crumlin-Pedersen, _Viking-Age Ships and Shipbuilding in Hedeby_, Illustrated edition (Viking Ship Museum, 1996).
