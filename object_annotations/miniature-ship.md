@@ -12,6 +12,6 @@ Toy ships are recorded in Icelandic Sagas such as the Saga of Ref the Sly. As a 
 
 ---
 
-Jane Smiley and Robert Kellogg, eds., _The Sagas of Icelanders: A Selection_, trans. Smiley, Jane and Kellogg, Robert (Viking, 2000), 603.
+Jane Smiley and Robert Kellogg, eds., _The Sagas of Icelanders: A Selection_, trans. Smiley, Jane and Kellogg, Robert (Viking, 2000).
 
 Ole Crumlin-Pedersen, _Viking-Age Ships and Shipbuilding in Hedeby_, Illustrated edition (Viking Ship Museum, 1996).
