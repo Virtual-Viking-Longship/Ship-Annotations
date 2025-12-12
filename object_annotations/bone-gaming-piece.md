@@ -8,7 +8,7 @@ _Spielstein aus Geweih_
 
 </div>
 
-Board games, such as the strategic game hnefatafl, were a popular leisure time activity for all, made accessible through the basic objects used to play (Maixner, 66). Game pieces could be carved out of common materials, such as wood, antler, or bone, and a board made of simple squares could be easily cut onto a piece of wood (Schietzel, 287).
+Board games, such as the strategic game _hnefatafl_, were a popular leisure time activity for all, made accessible through the basic objects used to play (Maixner, 66). Game pieces could be carved out of common materials, such as wood, antler, or bone, and a board made of simple squares could be easily cut onto a piece of wood (Schietzel, 287).
 
 ---
 
