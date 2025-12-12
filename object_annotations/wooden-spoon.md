@@ -8,7 +8,7 @@ _Holzlöffel_
 
 </div>
 
-Wooden spoons, typically carved from yew wood, are thought to have been used primarily for porridge (Schietzel, 248). Other uses for spoons of differing sizes include for liquid foods (tablespoons), farming (horn spoons), and personal hygiene (Schietzel, 333). Wooden spoons in the viking age may have either been personal possessions or used communally to ladle food from a communal pot  (Schietzel, 600).
+Wooden spoons, typically carved from yew wood, are thought to have been used primarily for porridge (Schietzel, 248). Other uses for spoons of differing sizes include for liquid foods (tablespoons), farming (horn spoons), and personal hygiene (Schietzel, 333). Wooden spoons in the Viking Age may have either been personal possessions or used communally to ladle food from a communal pot (Schietzel, 600).
 
 ---
 
