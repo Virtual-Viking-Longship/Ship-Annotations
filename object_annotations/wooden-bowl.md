@@ -8,7 +8,7 @@ _Holzschale_
 
 </div>
 
-Wooden bowls were important to the dining practices of the Viking Age. They were used both to prepare and serve meals and also, with a lid, to store and protect food from pests and contamination (Schietzel, 251). The bowl’s decorative carved handle suggests that the artistic form of “everyday” objects was valued in addition to their function.
+Wooden bowls were important to the dining practices of the Viking Age. They were used both to prepare and serve meals and also, with a lid, to store and protect food from pests and contamination (Schietzel, 251). This bowl’s decorative carved handle suggests that the artistic form of “everyday” objects was valued in addition to their function.
 
 ---
 
