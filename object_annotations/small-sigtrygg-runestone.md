@@ -1,4 +1,6 @@
-The smaller of the two Sigtrygg runestones from Hedeby was found in 1887 at Gottorf Castle. The inscription reads: “Asfrid, Odinkar’s daughter, made these monuments in memory of King Sigtrygg, her son and Gnupa’s. Gormr carved the runes.” (Department of Scandinavian languages)
+**Small Sigtrygg Runestone (DR 4)**
+
+The smaller of the two Sigtrygg runestones from Hedeby was found in 1887 at Gottorf Castle. The inscription reads: “Asfrid, Odinkar’s daughter, made these monuments in memory of King Sigtrygg, her son and Gnupa’s. Gormr carved the runes” (Scandinavian Runic-text Database).
 
 <div align="center">
 
